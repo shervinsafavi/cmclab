@@ -173,8 +173,22 @@
   date: '2022-10-01'
   link: https://doi.org/gqqsg4
   orcid: 0000-0002-2868-530X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Lorem ipsum _dolor sit amet_.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322006699-fx1.jpg
+  buttons:
+  - type: source
+    link: https://github.com/your-lab/some-repo
+  - type: website
+    text: My Personal Website
+    link: http://some-website.com/
+  tags:
+  - neural computation
+  - normative modeling
+  - medicine
+  repo: your-lab/some-repo
 - id: doi:10.1038/s41467-022-28897-2
   title: Decoding internally generated transitions of conscious contents in the prefrontal
     cortex without subjective reports

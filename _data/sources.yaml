@@ -21,3 +21,21 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1016/j.neuron.2022.07.024
+  type: paper
+  description: Lorem ipsum _dolor sit amet_.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322006699-fx1.jpg
+  buttons:
+    - type: source
+      link: https://github.com/your-lab/some-repo
+    - type: website
+      text: My Personal Website
+      link: http://some-website.com/
+  tags:
+    - neural computation
+    - normative modeling
+    - medicine
+  repo: your-lab/some-repo
+
+# ...another source
