@@ -13,3 +13,8 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
+
+
+# emacs stuff
+
+**/*.~undo-tree~
