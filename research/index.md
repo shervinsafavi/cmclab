@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+Here is the research stuff, that is being noted here! And even more! But not much! But also not too little
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
