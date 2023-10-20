@@ -164,6 +164,130 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.neuron.2022.07.024
+  title: Multistability, perceptual value, and internal foraging
+  authors:
+  - Shervin Safavi
+  - Peter Dayan
+  publisher: Neuron
+  date: '2022-10-01'
+  link: https://doi.org/gqqsg4
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-28897-2
+  title: Decoding internally generated transitions of conscious contents in the prefrontal
+    cortex without subjective reports
+  authors:
+  - Vishal Kapoor
+  - Abhilash Dwarakanath
+  - Shervin Safavi
+  - Joachim Werner
+  - Michel Besserve
+  - Theofanis I. Panagiotaropoulos
+  - Nikos K. Logothetis
+  publisher: Nature Communications
+  date: '2022-03-22'
+  link: https://doi.org/gqvjqt
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/neco_a_01389
+  title: 'From Univariate to Multivariate Coupling Between Continuous Signals and
+    Point Processes: A Mathematical Framework'
+  authors:
+  - Shervin Safavi
+  - Nikos K. Logothetis
+  - Michel Besserve
+  publisher: Neural Computation
+  date: '2021-06-11'
+  link: https://doi.org/gn23p3
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.09.413401
+  title: Uncovering the Organization of Neural Circuits with Generalized Phase Locking
+    Analysis
+  authors:
+  - Shervin Safavi
+  - Theofanis I. Panagiotaropoulos
+  - Vishal Kapoor
+  - Juan F. Ramirez-Villegas
+  - Nikos K. Logothetis
+  - Michel Besserve
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-12-10'
+  link: https://doi.org/gswn3b
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.01.29.924928
+  title: Bistability of prefrontal states gates access to consciousness
+  authors:
+  - Abhilash Dwarakanath
+  - Vishal Kapoor
+  - Joachim Werner
+  - Shervin Safavi
+  - Leonid A. Fedorov
+  - Nikos K. Logothetis
+  - Theofanis I. Panagiotaropoulos
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-01-30'
+  link: https://doi.org/ggsqp7
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.01.28.921841
+  title: Decoding the contents of consciousness from prefrontal ensembles
+  authors:
+  - Vishal Kapoor
+  - Abhilash Dwarakanath
+  - Shervin Safavi
+  - Joachim Werner
+  - Michel Besserve
+  - Theofanis I. Panagiotaropoulos
+  - Nikos K. Logothetis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-01-28'
+  link: https://doi.org/ggkwpn
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1421692112
+  title: Equality bias impairs collective decision-making across cultures
+  authors:
+  - Ali Mahmoodi
+  - Dan Bang
+  - Karsten Olsen
+  - Yuanyuan Aimee Zhao
+  - Zhenhao Shi
+  - Kristina Broberg
+  - Shervin Safavi
+  - Shihui Han
+  - Majid Nili Ahmadabadi
+  - Chris D. Frith
+  - Andreas Roepstorff
+  - Geraint Rees
+  - Bahador Bahrami
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-03-09'
+  link: https://doi.org/gc8zvx
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpsyg.2014.01063
+  title: Is the frontal lobe involved in conscious perception?
+  authors:
+  - Shervin Safavi
+  - Vishal Kapoor
+  - Nikos K. Logothetis
+  - Theofanis I. Panagiotaropoulos
+  publisher: Frontiers in Psychology
+  date: '2014-09-19'
+  link: https://doi.org/gc3h69
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
