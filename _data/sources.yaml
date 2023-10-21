@@ -24,18 +24,14 @@
 
 - id: doi:10.1016/j.neuron.2022.07.024
   type: paper
-  description: Lorem ipsum _dolor sit amet_.
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322006699-fx1.jpg
   buttons:
-    - type: source
-      link: https://github.com/your-lab/some-repo
     - type: website
-      text: My Personal Website
-      link: http://some-website.com/
+      text: PDF
+      link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/SafaviDayan_Neuron2022.pdf
   tags:
     - neural computation
     - normative modeling
-    - medicine
-  repo: your-lab/some-repo
+    - cognition
 
 # ...another source
