@@ -1,7 +1,7 @@
 ---
 title: Join us
 nav:
-  order: 1
+  order: 5
   tooltip: Open positions, applications, etc
 ---
 
