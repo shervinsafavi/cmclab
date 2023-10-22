@@ -9,3 +9,6 @@ nav:
 
 
 We are open to have new members to our team!
+
+also read our [mentor](/join/mentorshipPhylo)
+
