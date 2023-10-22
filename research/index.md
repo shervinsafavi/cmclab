@@ -5,7 +5,7 @@ nav:
   tooltip: Research in the lab
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# Research
 
 Here is the research stuff, that is being noted here! And even more! But not much! But also not too little
 
