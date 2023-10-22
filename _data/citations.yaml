@@ -57,6 +57,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: In this paper we discuss
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322006699-fx1.jpg
   buttons:
   - type: website
@@ -96,8 +97,8 @@
   orcid: 0000-0002-2868-530X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/128249
-  title: Non-monotonic spatial structure of inter-neuronal correlations in prefrontal
+- id: doi:10.1073/pnas.1802356115
+  title: Nonmonotonic spatial structure of interneuronal correlations in prefrontal
     microcircuits
   authors:
   - Shervin Safavi
@@ -107,9 +108,9 @@
   - Nicholas G. Hatsopoulos
   - Nikos K. Logothetis
   - Theofanis I. Panagiotaropoulos
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-04-19'
-  link: https://doi.org/gkwk7q
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-03-27'
+  link: https://doi.org/gdc56t
   orcid: 0000-0002-2868-530X
   plugin: orcid.py
   file: orcid.yaml
@@ -162,8 +163,8 @@
   date: '2020-12-04'
   link: https://doi.org/c7np
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Lorem 42 Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
   - type: manubot
