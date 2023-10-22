@@ -1,17 +1,17 @@
 # site properties and page defaults
-title: shervinsafavi
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: CMC lab
+subtitle: Computational Machinery of Cognition
+description: The overarching research theme of our lab is understanding the computational machinery of cognitive processes.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@shervinsafavi.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: site@shervinsafavi.com
+  orcid: 0000-0002-2868-530X
+  google-scholar: 7UlhWxkAAAAJ&hl=en&oi=ao
   github: shervinsafavi
-  twitter: shervinsafavi
+  twitter: neuroprinciples
   youtube: shervinsafavi
 
 ### jekyll settings

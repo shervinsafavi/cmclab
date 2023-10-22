@@ -17,6 +17,10 @@ Description on the phylosphy of the lab on team members
 
 A description and a bottom link to join the lab.
 
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join our Team" link="join" style="button" %}
+
+
+
 {% include section.html %}
 
 ## Alumni
