@@ -52,7 +52,7 @@ If that doesn't help and you need further information please get in touch with t
 <!-- header -->
 <tr style="background-color: #333; color: white;">
 <th>Project code</th>
-<th>Project team</th>
+<th>Project theme</th>
 <th>Contact</th>
 </tr>
 <!-- start of block -->
