@@ -7,71 +7,22 @@ nav:
 
 # Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is based in the [medical faculty](https://tu-dresden.de/med/mf#) of  [TU Dresden](https://tu-dresden.de/). 
+
+If you are interested in joining the lab please check the ["Join us" section](/join), and proceed as noted there. 
+<!-- (it's more reliable than sending us an email).  -->
+If you a need the PDF of one of our papers that [unfortunately] is behind paywalls, please check the [Publications](/publications). There we provide an accessible link to the PDF of paywall-ed papers.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="contact@cmclab.org"
+  link="contact@cmclab.org"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Schubertstra%C3%9Fe+42,+01307+Dresden/@51.058865,13.7814313,17z/data=!3m1!4b1!4m11!1m3!11m2!2sAl2WhWuR07anv4ALUEeac2k600ZQwA!3e3!3m6!1s0x4709c8c843f6bb7d:0x6b26012ee3a0df79!8m2!3d51.0588651!4d13.7863022!15sCgEqkgERY29tcG91bmRfYnVpbGRpbmfgAQA!16s%2Fg%2F11b8z2c8vx?entry=ttu"
 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

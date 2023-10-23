@@ -15,7 +15,6 @@ Here is the research stuff, that is being noted here! And even more! But not muc
 ## Highlighted
 
 {% include citation.html lookup="Multistability, perceptual value, and internal foraging" style="rich" %}
-{% include citation.html lookup="Multistability, perceptual value, and internal foraging" style="rich" %}
 
 
 {% include section.html %}
