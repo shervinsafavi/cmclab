@@ -5,7 +5,9 @@ description: The overarching research theme of our lab is understanding the comp
 header: images/background.jpg
 footer: images/background.jpg
 
-baseurl: "/cmclab"
+# based on
+# https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+basewebsite: "/cmclab"
 
 
 # site social media and other links
