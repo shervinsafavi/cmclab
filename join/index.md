@@ -11,7 +11,7 @@ nav:
 We are always excited about having new team members!
 
 {% capture labPhyloAlert %}
-Check [lab's mentorship philosophy](/join/mentorshipPhylo) to get to know us better.
+Check [lab's mentorship philosophy]({{ site.baseurl }}/join/mentorshipPhylo) to get to know us better.
 {% endcapture %}
 
 {%
