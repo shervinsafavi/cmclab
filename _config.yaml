@@ -7,7 +7,7 @@ footer: images/background.jpg
 
 # based on
 # https://mademistakes.com/mastering-jekyll/site-url-baseurl/
-basewebsite: "/cmclab"
+baseurl: /cmclab
 
 
 # site social media and other links
