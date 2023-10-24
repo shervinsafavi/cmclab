@@ -48,10 +48,6 @@ This will let us to have the goodness of both worlds.
 
 {% include section.html %}
 
-## All publications
 
-{% include search-box.html %}
+{% include button.html text="See our publications" link="join" style="button" %}
 
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
