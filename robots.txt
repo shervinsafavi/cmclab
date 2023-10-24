@@ -1,1 +1,1 @@
-Sitemap: /cmclab/sitemap.xml
+Sitemap: http://shervinsafavi.github.io/cmclab/sitemap.xml
