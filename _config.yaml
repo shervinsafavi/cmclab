@@ -8,6 +8,7 @@ footer: images/background.jpg
 # based on
 # https://mademistakes.com/mastering-jekyll/site-url-baseurl/
 baseurl: /cmclab
+url : http://shervinsafavi.github.io
 
 
 # site social media and other links
