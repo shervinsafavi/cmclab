@@ -1,81 +1,24 @@
 ---
 ---
 
-# shervinsafavi's Website
+# CMC lab
 
-An engaging 1-3 sentence description of your lab.
+**C**omputational **M**achinery of **C**ognition (CMC) lab is based at the [medical faculty](https://tu-dresden.de/med/mf#) of  [TU Dresden](https://tu-dresden.de/). 
+As the name of the lab suggests, we want to understand the computations that support our cognition, 
+_and also_ the multi-scale machinery that implements these computations.
+We closely collaborate with experimental and computational labs to develop new tools, computational models, and experimental paradigms to understand the computational machinery of cognition. 
+
 
 {% include section.html %}
 
-## Highlights
 
-{% capture text %}
+## Latest updates
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include search-box.html %}
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+{% include tags.html tags=site.tags %}
 
-{% endcapture %}
+{% include search-info.html %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+{% include list.html data="posts" component="post-excerpt" %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="tools"
-  text="Browse our Tools"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="tools"
-  title="Our Tools"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
