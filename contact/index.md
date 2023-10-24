@@ -7,7 +7,7 @@ nav:
 
 # Contact
 
-Our lab is based in the [medical faculty](https://tu-dresden.de/med/mf#) of  [TU Dresden](https://tu-dresden.de/). 
+Our lab is based at the [medical faculty](https://tu-dresden.de/med/mf#) of  [TU Dresden](https://tu-dresden.de/). 
 
 If you are interested in joining the lab please check the ["Join us" section](/join), and proceed as noted there. 
 <!-- (it's more reliable than sending us an email).  -->
