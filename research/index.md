@@ -68,7 +68,7 @@ and dysfunctions.
 {% include citation.html lookup="Multistability, perceptual value, and internal foraging" style="rich" %}
 
 {% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this topic.
+Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this research program.
 {% endcapture %}
 
 {%
@@ -77,10 +77,10 @@ Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for
   content=nemcPaps
 %}
 
+## Multi-scale analysis of neural and behavioral data (MNBD)
+<!-- ## Neural events as markers of cognitive processes (NEMC) -->
 
-## Neural events as markers of cognitive processes (NEMC)
-
-Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
+We start this research program from _Neural events_. Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
 We want to use them as accessible neural markers of cognitive processes, 
 that likely shed light on behaviorally relevant coordination mechanisms in the brain.
 
