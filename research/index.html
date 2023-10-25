@@ -518,7 +518,7 @@ and the biophysical machinery that implement these computations.
 Imagine we go to a restaurant and want to order a dish. 
 For such decisions brain needs to take into account several factors: 
 <em>how much we like each option</em>, 
-<em>how much we want to explore new stuff</em>, 
+<em>how much we want to explore new options</em>, 
 <em>how pricey they are</em>, … .
 There is much computation going on in our brain to sort out each of those questions.
 And, at the end, all is happening in a piece of wet machinery (brain).
@@ -529,44 +529,46 @@ We want to understand how our brain does those computations and how they are imp
   <i class="icon fa-solid fa-circle-info"></i>
   <div class="alert-content">
     
-<p>We do normative and biophysical modeling (to ideally combine them) to understand the cognitive functions (we chose perceptual decisions as our starting point); we will test these models with neural and behavioral data (in collaboration with experimental labs); and we will develop machine learning methods for multi- and cross-scale analysis of neural data to better capture the neural markers of underlying cognitive (sub-)processes and ultimately connect them to underlying computations.</p>
+<p>We do normative and biophysical modeling (with the goal of combining them) to understand the cognitive functions; we will test these models with neural and behavioral data (in collaboration with experimental labs); and we will develop machine learning methods for multi- and cross-scale analysis of neural data to first better understand the multi-scale machinary of the brain, and second better capture the neural markers of underlying cognitive (sub-)processes and ultimately connect them to underlying computations.</p>
 
   </div>
 </div>
 
 <h2 id="computational-machinery-of-perceptual-decision-making-cmpd">Computational machinery of perceptual decision-making (CMPD)</h2>
-<h2 id="neural-events-as-markers-of-cognitive-processes-nemc">Neural events as markers of cognitive processes (NEMC)</h2>
 
-<p>Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
-It has been shown some neural events have signature across several scales (neurons, neural populations, and large-scale networks). 
-Moreover, they are also closely connected to behavior;
-for instance Sharp-Wave Ripples is one of the most studied neural events and, over two decades, it has been shown they are involved in everything from memory consolidation to offline and online planning. 
-We want to use them as accessible neural markers of cognitive processes, 
-that likely shed light on behaviorally relevant coordination mechanisms in the brain.</p>
+<p>We want develop <em>functional</em> multi-scale models of decision processes,
+which is a key aspect of information processing. 
+We will start this development from <em>perceptual multistability</em> (phenomena like Necker cube
+and binocular rivalry), that is also a form of perceptual decision.</p>
 
 <details style="text-align: left;">
   <summary>Read more:</summary>
 
-  <p>key gaps that we are trying to fill are the following:</p>
+  <p>We chose perceptual multistability as our starting point due to
+its multi-faceted richness:</p>
+
   <ol>
-    <li>How we can detect neural events in data reliably? Thus, we will develop unsupervised machine learning methods to identify neural events.</li>
-    <li>If and how neural events are coupled to behavior? Thus we will use our method(s) to investigate the occurrence of different kinds of neural events in variety of behavioral task.</li>
-    <li>How rich multi-scale dynamics of neural event support the behavior? Thus, we will characterize the multi-scale signature of neural events (e.g., how different brain regions interact/communicate during each event) during variety of behavioral task.</li>
+    <li>It is an evolutionary-preserved phenomenon.</li>
+    <li>It is studied across several levels of organization (from genes to brain
+networks).</li>
+    <li>It is a rich task to understand different aspects of neural
+computaitons. This includes, perceptual inference and we recently showed it is
+<em>also</em> a rich task for understanding value-based decision-making, and even cognitive control.</li>
+    <li>It is broadly applicable across many species, from Drosophila to human, as well as across different sensory modalities.</li>
   </ol>
 
+  <p>Furthermore, perceptual multistability is also important from a
+psychiatric perspective, as it has been found to differ in a wide range
+of psychiatric conditions (e. g., differences in the rate of perceptual
+switches), 
+So, we believe studying this phenomenon has great potential
+for gaining an integrative insight into a wide range of neural functions
+and dysfunctions.</p>
+
 </details>
-<p><br></p>
+<!-- <br/> -->
 
-<h2 id="criticality-in-functional-and-dysfunctional-neural-systems-cfdn">Criticality in functional and dysfunctional neural systems (CFDN)</h2>
-<h2 id="hybrid-neural-networks-for-cognitive-neuroscience-hnnc">Hybrid neural networks for cognitive neuroscience (HNNC)</h2>
-
-<p>Artificial neural network (ANN) have been influential for understanding the neural computations, 
-however they suffer from biological plausibility. 
-This is a key caveat when we want to use them to understand the computational machinery of cognitive process. 
-We will exploit the  capacity of ANN for implementing different kinds of computations and hybrid them as much as possible with biological neural networks.
-This will let us to have the goodness of both worlds.</p>
-
-<h1 id="highlighted">Highlighted</h1>
+<h3 id="highlighted-paper">Highlighted paper</h3>
 
 <div class="citation">
   
@@ -649,27 +651,227 @@ This will let us to have the goodness of both worlds.</p>
     
   </div>
 </div>
+
+<div class="alert" style="--color: #6366f1">
+  
+  <i class="icon fa-solid fa-circle-question"></i>
+  <div class="alert-content">
+    
+<p>Check <a href="/cmclab/publications/?search=%22tag:%20cognition%22">here</a> for more papers from CMC lab on this topic.</p>
+
+  </div>
+</div>
+
+<h2 id="neural-events-as-markers-of-cognitive-processes-nemc">Neural events as markers of cognitive processes (NEMC)</h2>
+
+<p>Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
+We want to use them as accessible neural markers of cognitive processes, 
+that likely shed light on behaviorally relevant coordination mechanisms in the brain.</p>
+
+<details style="text-align: left;">
+  <summary>Read more:</summary>
+
+  <p>It has been shown some neural events have signature across several scales (neurons, neural populations, and large-scale networks). 
+Moreover, they are also closely connected to behavior;
+for instance Sharp-Wave Ripples is one of the most studied neural events and, over two decades, it has been shown they are involved in everything from memory consolidation to offline and online planning. 
+We want to use them as accessible neural markers of cognitive processes, 
+that likely shed light on behaviorally relevant coordination mechanisms in the brain.</p>
+
+  <p>key gaps that we are trying to fill are the following:</p>
+  <ol>
+    <li>How we can detect neural events in data reliably? Thus, we will develop unsupervised machine learning methods to identify neural events.</li>
+    <li>If and how neural events are coupled to behavior? Thus we will use our method(s) to investigate the occurrence of different kinds of neural events in variety of behavioral task.</li>
+    <li>How rich multi-scale dynamics of neural event support the behavior? Thus, we will characterize the multi-scale signature of neural events (e.g., how different brain regions interact/communicate during each event) during variety of behavioral task.</li>
+  </ol>
+
+</details>
+<!-- <br/> -->
+
+<h2 id="criticality-in-functional-and-dysfunctional-neural-systems-cfdn">Criticality in functional and dysfunctional neural systems (CFDN)</h2>
+
+<p>We will use <em>“brain criticality hypothesis”</em> which has the potential of bridging
+multi-scale neural dynamics to
+<em>basic</em> information processing capabilities, as well as behavior.</p>
+
+<details style="text-align: left;">
+  <summary>Read more:</summary>
+
+  <p>Crudely speaking, this
+hypothesis states that the brain operates close to the <em>edge of
+instability</em> (e.g., a sweet spot between over-synchronization and random
+activity). Operating in this regime explains some key features of neural
+dynamics that are particularly important for a multi-scale description
+of the brain (e. g., scale-freeness). Furthermore, criticality has been
+suggested to be an optimized regime for information processing.</p>
+
+  <p>We extend the previous line of research in
+two directions.</p>
+  <ol>
+    <li>Extend it to a broader range of information processing and other biologically relevant neuronal networks.</li>
+    <li>We investigate if deviation from the critical state occurs in psychiatric disorders.</li>
+  </ol>
+
+</details>
+<!-- <br/> -->
+
+<h3 id="related-highlighted-paper">Related highlighted paper</h3>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gswshp" class="citation-image" aria-label="Signatures of criticality in efficient coding networks">
+      <img src="" alt="Signatures of criticality in efficient coding networks" loading="lazy" onerror="this.src = '/cmclab/images/fallback.svg'; this.onerror = null;">
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gswshp" class="citation-title">
+      Signatures of criticality in efficient coding networks
+    </a>
+
+    <div class="citation-authors" tabindex="0">
+      Shervin Safavi, Matthew Chalk, Nikos Logothetis, Anna Levina
+    </div>
+
+    <div class="citation-details">
+      Cold Spring Harbor Laboratory
+        ·  
+      14 Feb 2023
+        ·  
+      doi:10.1101/2023.02.14.528465
+    </div>
+
+    
+      
+
+      
+
+      
+    
+  </div>
+</div>
+
+<h2 id="hybrid-neural-networks-for-cognitive-neuroscience-hnnc">Hybrid neural networks for cognitive neuroscience (HNNC)</h2>
+
+<p>Artificial neural network (ANN) have been influential for understanding the neural computations, 
+however they suffer from biological plausibility. 
+This is a key caveat when we want to use them to understand the computational machinery of cognitive process.</p>
+
+<details style="text-align: left;">
+  <summary>Read more:</summary>
+
+  <p>We will exploit the  capacity of ANN for implementing different kinds of computations and hybrid them as much as possible with biological neural networks.
+This will let us to have the goodness of both worlds.</p>
+
+</details>
+<!-- <br/> -->
+
+<!-- # Highlighted -->
+
+<!-- 
+
+<div class="citation">
+  
+    <a
+      
+        href="https://doi.org/gswshp"
+      
+      class="citation-image"
+      aria-label="Signatures of criticality in efficient coding networks"
+    >
+      <img
+        src=""
+        alt="Signatures of criticality in efficient coding networks"
+        loading="lazy"
+        onerror="this.src = '/cmclab/images/fallback.svg'; this.onerror = null;"
+
+      >
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a
+      
+        href="https://doi.org/gswshp"
+      
+      class="citation-title"
+    >
+      Signatures of criticality in efficient coding networks
+    </a>
+
+    <div
+      class="citation-authors"
+      
+      tabindex="0"
+    >
+      Shervin Safavi, Matthew Chalk, Nikos Logothetis, Anna Levina
+    </div>
+
+    <div class="citation-details">
+      Cold Spring Harbor Laboratory
+      &nbsp; · &nbsp;
+      14 Feb 2023
+      &nbsp; · &nbsp;
+      doi:10.1101/2023.02.14.528465
+    </div>
+
+    
+      
+
+      
+
+      
+    
+  </div>
+</div>
+ -->
+
+<!--
   </section>
 
   
   
   
 
-  <section class="background" data-size="page">
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
     <!--
   background: ;
   dark: ;
   size: ;
 -->
+<p>–&gt;</p>
 
-<div class="button-wrapper">
-    <a class="button" href="/cmclab/publications" data-style="button" aria-label="button">
+<!-- 
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="/cmclab/publications"
+      
+      data-style="button"
+      
+      aria-label="button"
+    >
       
       
         <span>See our publications</span>
       
     </a>
   </div>
+
+ -->
   </section>
 
 
