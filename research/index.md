@@ -61,10 +61,9 @@ for gaining an integrative insight into a wide range of neural functions
 and dysfunctions.
 
 </details>
-<!-- <br/> -->
 {::options parse_block_html="false" /}
 
-### Highlighted paper
+### Highlighted paper of the research program
 {% include citation.html lookup="Multistability, perceptual value, and internal foraging" style="rich" %}
 
 {% capture nemcPaps %}
@@ -73,12 +72,11 @@ Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for
 
 {%
   include alert.html
-  type="help"
+  type="info"
   content=nemcPaps
 %}
 
 ## Multi-scale analysis of neural and behavioral data (MNBD)
-<!-- ## Neural events as markers of cognitive processes (NEMC) -->
 
 We start this research program from _Neural events_. Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
 We want to use them as accessible neural markers of cognitive processes, 
@@ -101,8 +99,22 @@ key gaps that we are trying to fill are the following:
 3. How rich multi-scale dynamics of neural event support the behavior? Thus, we will characterize the multi-scale signature of neural events (e.g., how different brain regions interact/communicate during each event) during variety of behavioral task.
 
 </details>
-<!-- <br/> -->
 {::options parse_block_html="false" /}
+
+### Highlighted paper of the research program
+{% include citation.html lookup="Generalized Phase Locking Analysis" style="rich" %}
+
+{% capture nemcPaps %}
+Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this research program.
+{% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=nemcPaps
+%}
+
+
 
 ## Criticality in functional and dysfunctional neural systems (CFDN)
 
@@ -131,10 +143,18 @@ two directions.
 <!-- <br/> -->
 {::options parse_block_html="false" /}
 
-### Related highlighted paper
-
+### Highlighted paper of the research program
 {% include citation.html lookup="Signatures of criticality in efficient coding networks" style="rich" %}
 
+{% capture nemcPaps %}
+Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this research program.
+{% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=nemcPaps
+%}
 
 ## Hybrid neural networks for cognitive neuroscience (HNNC)
 
@@ -151,14 +171,6 @@ This will let us to have the goodness of both worlds.
 
 
 </details>
-<!-- <br/> -->
 {::options parse_block_html="false" /}
 
-<!-- # Highlighted -->
-
-<!-- {% include citation.html lookup="Signatures of criticality in efficient coding networks" style="rich" %} -->
-
-<!-- {% include section.html %} -->
-
-<!-- {% include button.html text="See our publications" link="publications" style="button" %} -->
 

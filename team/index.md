@@ -7,7 +7,7 @@ nav:
 
 # Team
 
-Description on the phylosphy of the lab on team members
+In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it.
 
 {% include section.html %}
 
@@ -15,9 +15,11 @@ Description on the phylosphy of the lab on team members
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-A description and a bottom link to join the lab.
+<p style="text-align: center;">Does research of our lab resonates with yours?</p>
 
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join our Team" link="join" style="button" %}
+
+
+{% include button.html icon="" text="Join our team" link="join" style="button" %}
 
 
 
