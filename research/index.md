@@ -78,13 +78,18 @@ Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for
 
 ## Multi-scale analysis of neural and behavioral data (MNBD)
 
-We start this research program from _Neural events_. Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
-We want to use them as accessible neural markers of cognitive processes, 
-that likely shed light on behaviorally relevant coordination mechanisms in the brain.
+We develop *multi-modal **methods** for the analysis of brain data*. 
+The destination of this methodological research is to establish the connections *from* multi-scale neural dynamics to behavior, and ultimately information processing.
 
 {::options parse_block_html="true" /}
 <details  style="text-align: left;">
 <summary markdown="span">Read more:</summary>
+The organization of the brain spans multiple levels (neurons, circuits, networks, etc), which are duly assessed using different measurement modalities (electrophysiology, calcium imaging, fMRI, etc). Despite extensive developments in the analysis of *individual* data modalities, studies that focus on *joint analysis of multi-modal neural data are still scarce*. 
+
+We started this research program from _Neural events_. Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
+We want to use them as accessible neural markers of cognitive processes, 
+that likely shed light on behaviorally relevant coordination mechanisms in the brain.
+
 
 It has been shown some neural events have signature across several scales (neurons, neural populations, and large-scale networks). 
 Moreover, they are also closely connected to behavior;
