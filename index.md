@@ -8,13 +8,9 @@ As the name of the lab suggests, we want to understand the computations that sup
 _and also_ the multi-scale machinery that implements these computations.
 We closely collaborate with experimental and computational labs to develop new tools, computational models, and experimental paradigms to understand the computational machinery of cognition. 
 
-
 {% include section.html %}
-
-
 ## Latest updates
 
-{% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
 
