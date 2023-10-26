@@ -39,7 +39,7 @@ Forms provided in this page are more reliable than emails, and we try our best t
 # Open positions
 ## PhD position
 ### Neural events
-We have an opening for a PhD student for analysis of neural events. Please check [here]({{ site.baseurl }}/join/bne_phd_202310) for more details on theme of the research question, and here for the official advertisement.
+We have an opening for a PhD student for analysis of neural events. Please check [here]({{ site.baseurl }}/join/bne_phd_202310) for more details on theme of the research question, and [here](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-position-m-f-x) for the official advertisement.
 
 ## Master thesis projects
 
