@@ -8,22 +8,21 @@ Neural events are characteristics, transient, coordinated, neural activities tha
 
 1. How we can detect neural events in data reliably? Thus, we will develop unsupervised machine-learning methods to identify neural events. 
 2. If and how neural events are coupled to behavior? Thus, we will use our method(s) to investigate the occurrence of different kinds of neural events in a variety of behavioral tasks. 
-3. How do rich multi-scale dynamics of neural events support the behavior? Thus, we will characterize the multi-scale signature of neural events (e.g., how different brain regions interact/communicate duringin the vicinity of each event) during a variety of behavioral tasks. 
+3. How do rich multi-scale dynamics of neural events support the behavior? Thus, we will characterize the multi-scale signature of neural events (e.g., how different brain regions interact/communicate in the vicinity of each event) and during a variety of behavioral tasks. 
 
 Overall, in this project, we will find accessible neural markers of cognitive processes, that likely shed light on behaviorally relevant coordination mechanisms in the brain.
 
-CMC lab strives to create an inclusive environment. We therefore expressly encourage minorities to apply.
+CMC lab strives to create an inclusive and diverse environment. We therefore expressly encourage everyone (in particular minorities) to consider joining us.
 
-## Requirements (N=necessary, D=desired, P=plus)
+## Skill we might need (N=necessary, D=desired, P=plus)
 
 - (N) Have background (Master/Diploma) in (computational) neuroscience, neuroscience, physics, mathematics, statistics, machine learning, psychology, and other related fields.
 - (N) Being comfortable with programming (best would be, Python, or Matlab).
 - (D) Have experience in the analysis of neurophysiology data.
 - (D) Have experience with computational and systems neuroscience.
 - (D) Familiarity with machine learning techniques or/and sufficient mathematical background.
-or/and or having a technical background (physics, mathematics, engendering, etc).
 - (P) Basic knowledge of software engineering (e.g., packaging scientific tools).
 
 ## Interested?
 
-Please submit your application (preferably) via TU Dresden application portal by **November 30, 2023**, otherwise via email (please include, a cover letter, brief research interests, and your CV). Please do not hesitate to contact us for questions (<tt>`applications at cmclab dot org`</tt>). If you sending your application or contacting us for question, please use the subject heading of <tt>`bne_phd_202310`</tt> (otherwise it will be more likely to get lost).
+If you are interested, please submit your application (preferably) via [TU Dresden's Medical Faculty application portal](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-position-m-f-x/@@jetzt-mitarbeiter-werden) by **November 30, 2023**, otherwise via email. As required by the [official announcement of the PhD position](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-position-m-f-x), for applying, please include, a cover letter, brief research interests, and your CV. Please do not hesitate to contact us for questions (<tt>`applications at cmclab dot org`</tt>). If you sending your application or contacting us for question, please use the subject heading of <tt>`bne_phd_202310`</tt> (otherwise it might get lost).
