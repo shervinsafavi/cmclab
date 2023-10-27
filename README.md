@@ -1,5 +1,5 @@
 
-# shervinsafavi's Website
+# CMC lab's Website
 
 Visit **[shervinsafavi.github.io/cmclab](https://shervinsafavi.github.io/cmclab)** 🚀
 
