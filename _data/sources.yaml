@@ -1,3 +1,35 @@
+
+
+- id: doi:10.1016/j.neuron.2023.02.027
+  type: paper
+  buttons:
+    - type: website
+      text: PDF
+      link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/SafaviDayan_Neuron2022.pdf
+  tags:
+  - neural machinery
+  - perceptual multistability
+  - perceptual decision-making
+  - cognition
+  - multi-scale analysis
+
+- id: doi:10.1371/journal.pcbi.1010983
+  type: paper
+  tags:
+  - multi-scale methods
+  - biophysical modeling
+  - neural machinery
+
+- id: doi:10.1101/2023.02.14.528465
+  type: paper
+  tags:
+  - criticality
+  - neural computations
+  - biophysical modeling
+  - bridge computation-machinery
+  - neural dynamics
+  - neural machinery
+
 - id: doi:10.1016/j.neuron.2022.07.024
   type: paper
   description: Based on a large collection behavioral and neural data, we introduce a radically new perspective to the well-known phenomenon of perceptual multistability. We formulated the phenomenon as a value-based decision-making process that not only synergies with previous accounts, but also offers a more comprehensive treatment of computational and algorithmic facets of perceptual multistability.
@@ -7,8 +39,49 @@
       text: PDF
       link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/SafaviDayan_Neuron2022.pdf
   tags:
-    - neural computation
-    - normative modeling
-    - cognition
+  - neural computations
+  - normative modeling
+  - cognition
+  - perceptual multistability
+  - perceptual decision-making
 
-# ...another source
+- id: doi:10.1038/s41467-022-28897-2
+  type: paper
+  tags:
+  - neural machinery
+  - perceptual multistability
+  - perceptual decision-making
+  - cognition
+
+- id: doi:10.1162/neco_a_01389
+  type: paper
+  tags:
+  - multi-scale methods
+  - statistical modeling
+  
+- id: doi:10.1073/pnas.1802356115
+  type: paper
+  tags:
+  - neural machinery
+  - cognition
+  - perceptual multistability
+
+- id: doi:10.1073/pnas.1421692112
+  type: paper
+  buttons:
+    - type: website
+      text: PDF
+      link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/SafaviDayan_Neuron2022.pdf
+  tags:
+  - neural computations
+  - normative modeling
+  - perceptual decision-making
+  - cognition
+
+- id: doi:10.3389/fpsyg.2014.01063
+  type: paper
+  tags: 
+  - neural machinery
+  - cognition
+  - perceptual multistability
+  - multi-scale analysis
