@@ -64,8 +64,9 @@ If you are interested you can sign up there.
 <th>Contact person</th>
 </tr>
 <!-- start of block -->
+<!--  -->
+<!-- bne_msc_gen01  -->
 <!-- start of row -->
-<!-- neural event -->
 <tr>
 <td>
 [bne_msc_gen01]({{ site.baseurl }}/join/bne_msc_gen01)
@@ -82,6 +83,8 @@ If you are interested you can sign up there.
 </td>
 </tr>
 <!-- end of row -->
+<!--  -->
+<!-- crnn_msc_dyn01 -->
 <!-- start of row -->
 <tr style="background-color: #f0f0f0;">
 <td>
@@ -96,30 +99,6 @@ In this project we explore how we can relate the low dimensional dynamics of RNN
 </td>
 <td>
 [Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi)
-</td>
-</tr>
-<!-- end of row -->
-<!-- start of row -->
-<tr style="background-color: #f0f0f0;">
-<td>
-[crnn_msc_dyn01](https://forms.gle/z2uxZ8Cr2nzKVWFk8)
-</td>
- <td style="text-align: left;">
-Recurrent neural networks (RNNs) have been tremendously helpful for understanding the dynamics underlying neural computations. 
-One limiting factor of RNNs for understanding the brain circuits, 
-is their weak connection with more biologically plausible networks. 
-In this project we explore how we can relate the dynamics of RNN to their counterparts in more plausible biological neural networks. 
-</td>
-<td>
-[MNBD]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22),
-[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22)
-</td>
-<td>
-{%
-include portrait.html
-lookup="shervin-safavi"
-style="tiny"
-%}
 </td>
 </tr>
 <!-- end of row -->
