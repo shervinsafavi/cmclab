@@ -20,7 +20,7 @@ And, at the end, all is happening in a piece of wet machinery (brain).
 We want to understand how our brain does those computations and how they are implemented (biophysics of computations).
 
 {% capture sumLabResMeth %}
-We do normative and biophysical modeling (with the goal of combining them) to understand the cognitive functions; we will test these models with neural and behavioral data (in collaboration with experimental labs); and we will develop machine learning methods for multi- and cross-scale analysis of neural data to first better understand the multi-scale machinary of the brain, and second better capture the neural markers of underlying cognitive (sub-)processes and ultimately connect them to underlying computations. 
+We do normative and biophysical modeling (with the goal of combining them) to understand the cognitive functions; we will test these models with neural and behavioral data (in collaboration with experimental labs); and we will develop machine learning methods for multi- and cross-scale analysis of neural data to first better understand the multi-scale machinery of the brain, and second better capture the neural markers of underlying cognitive (sub-)processes and ultimately connect them to underlying computations. 
 {% endcapture %}
 
 {%
@@ -67,7 +67,7 @@ and dysfunctions.
 {% include citation.html lookup="Multistability, perceptual value, and internal foraging" style="rich" %}
 
 {% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this research program.
+Check [here]({{ site.baseurl }}/publications/?search="tag%3A+cognition"+OR+"tag%3A+neural+machinery") for more papers from CMC lab on this research program.
 {% endcapture %}
 
 {%
@@ -110,7 +110,7 @@ key gaps that we are trying to fill are the following:
 {% include citation.html lookup="Generalized Phase Locking Analysis" style="rich" %}
 
 {% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this research program.
+Check [here]({{ site.baseurl }}/publications/?search="tag%3A+multi-scale+analysis"+OR+"tag%3A+multi-scale+methods") for more papers from CMC lab on this research program.
 {% endcapture %}
 
 {%
@@ -118,7 +118,6 @@ Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for
   type="info"
   content=nemcPaps
 %}
-
 
 
 ## Criticality in functional and dysfunctional neural systems (CFDN)
@@ -152,7 +151,7 @@ two directions.
 {% include citation.html lookup="Signatures of criticality in efficient coding networks" style="rich" %}
 
 {% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22) for more papers from CMC lab on this research program.
+Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20criticality%22) for more papers from CMC lab on this research program.
 {% endcapture %}
 
 {%
