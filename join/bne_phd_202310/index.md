@@ -23,6 +23,19 @@ CMC lab strives to create an inclusive and diverse environment. We therefore exp
 - (D) Familiarity with machine learning techniques or/and sufficient mathematical background.
 - (P) Basic knowledge of software engineering (e.g., packaging scientific tools).
 
+## Learning targets
+
+- General research-oriented skills:
+  - Critical thinking
+  - Organizing and optimizing a research flow
+  - Scientific writing
+  - Networking
+- Learn data analysis techniques for multi-scale analysis of brain data
+- Learn about several approaches to bridge neural dynamics and behavior
+- Learn a wide range of topics in systems and computational neuroscience
+- Receive training toward establishing an independent research group
+
+
 ## Interested?
 
 If you are interested, please submit your application (preferably) via [TU Dresden's Medical Faculty application portal](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-position-m-f-x/@@jetzt-mitarbeiter-werden) by **November 30, 2023**, otherwise via email. As required by the [official announcement of the PhD position](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-position-m-f-x), for applying, please include, a cover letter, brief research interests, and your CV. Please do not hesitate to contact us for questions (<tt>`applications at cmclab dot org`</tt>). If you sending your application or contacting us for question, please use the subject heading of <tt>`bne_phd_202310`</tt> (otherwise it might get lost).

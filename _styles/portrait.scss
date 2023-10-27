@@ -29,6 +29,13 @@
   text-align: left;
 }
 
+.portrait[data-style="super-tiny"] {
+  flex-direction: row;
+  gap: 10px;
+  width: 30px;
+  text-align: left;
+}
+
 .portrait-image {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -44,6 +51,15 @@
 .portrait[data-style="tiny"] .portrait-role {
   display: none;
 }
+
+.portrait[data-style="super-tiny"] .portrait-image {
+  width: 50px;
+}
+
+.portrait[data-style="super-tiny"] .portrait-role {
+  display: none;
+}
+
 
 .portrait-text {
   display: flex;

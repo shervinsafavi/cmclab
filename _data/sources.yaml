@@ -55,10 +55,14 @@
 
 - id: doi:10.1162/neco_a_01389
   type: paper
+  buttons:
+    - type: website
+      text: PDF
+      link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/Safavi_NeuralComp2021.pdf
   tags:
   - multi-scale methods
   - statistical modeling
-  
+
 - id: doi:10.1073/pnas.1802356115
   type: paper
   tags:
@@ -80,6 +84,13 @@
 
 - id: doi:10.3389/fpsyg.2014.01063
   type: paper
+  tags: 
+  - neural machinery
+  - cognition
+  - perceptual multistability
+  - multi-scale analysis
+
+- id: doi:10.15496/PUBLIKATION-69434
   tags: 
   - neural machinery
   - cognition

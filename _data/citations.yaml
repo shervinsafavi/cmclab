@@ -12,7 +12,7 @@
   - Theofanis I. Panagiotaropoulos
   publisher: Neuron
   date: '2023-05-01'
-  link: https://doi.org/gswshm
+  link: https://doi.org/10.1016/j.neuron.2023.02.027
   orcid: 0000-0002-2868-530X
   plugin: sources.py
   file: sources.yaml
@@ -69,6 +69,22 @@
   - bridge computation-machinery
   - neural dynamics
   - neural machinery
+- id: doi:10.15496/PUBLIKATION-69434
+  title: Brain as a Complex System, harnessing systems neuroscience tools &amp; notions
+    for an empirical approach
+  authors:
+  - Shervin Safavi
+  publisher: "Universit\xE4t T\xFCbingen"
+  date: '2022-09-01'
+  link: https://doi.org/gszxpf
+  orcid: 0000-0002-2868-530X
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - neural machinery
+  - cognition
+  - perceptual multistability
+  - multi-scale analysis
 - id: doi:10.1016/j.neuron.2022.07.024
   title: Multistability, perceptual value, and internal foraging
   authors:
@@ -121,19 +137,14 @@
   - perceptual decision-making
   - cognition
 - id: doi:10.1162/neco_a_01389
-  title: 'From Univariate to Multivariate Coupling Between Continuous Signals and
-    Point Processes: A Mathematical Framework'
-  authors:
-  - Shervin Safavi
-  - Nikos K. Logothetis
-  - Michel Besserve
-  publisher: Neural Computation
-  date: '2021-06-11'
-  link: https://doi.org/gn23p3
   orcid: 0000-0002-2868-530X
   plugin: sources.py
   file: sources.yaml
   type: paper
+  buttons:
+  - type: website
+    text: PDF
+    link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/Safavi_NeuralComp2021.pdf
   tags:
   - multi-scale methods
   - statistical modeling

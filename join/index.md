@@ -85,6 +85,23 @@ If you are interested you can sign up there.
 <!-- start of row -->
 <tr style="background-color: #f0f0f0;">
 <td>
+[crnn_msc_dyn01]({{ site.baseurl }}/join/crnn_msc_dyn01)
+</td>
+ <td style="text-align: left;">
+In this project we explore how we can relate the low dimensional dynamics of RNN to their counterparts in more plausible biological neural networks. 
+</td>
+<td>
+[MNBD]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22),
+[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22)
+</td>
+<td>
+[Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi)
+</td>
+</tr>
+<!-- end of row -->
+<!-- start of row -->
+<tr style="background-color: #f0f0f0;">
+<td>
 [crnn_msc_dyn01](https://forms.gle/z2uxZ8Cr2nzKVWFk8)
 </td>
  <td style="text-align: left;">
