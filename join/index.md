@@ -43,50 +43,59 @@ We have an opening for a PhD student for analysis of neural events. Please check
 
 ## Master thesis projects
 
-There are multiple master thesis project in the lab, a subset of them are outlined in the table below. 
-If you are interested please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link), and select the corresponding project code. 
-For some of the projects, a bit more description is also provided as link to the project code.
-If that doesn't help and you need further information please get in touch with the contact person (third column), otherwise filling the [application form](https://forms.gle/z2uxZ8Cr2nzKVWFk8) is enough and we'll get back to you as soon as possible.
+There are multiple master thesis project in the lab, 
+we'll try to keep an updated list below.
+If you are interested please fill [this form](https://forms.gle/wGbSMoEdqBXBtaG3A), and select the corresponding project code. 
+For most of the projects, more description is also provided in link associated to the 
+project code.
+If that doesn't help and you need further information please get in touch with the contact person (forth column), otherwise filling the [application form](https://forms.gle/wGbSMoEdqBXBtaG3A) is enough and we'll get back to you as soon as possible.
+To help you connect these projects to the global research of the lab, in the third column we provide the keywords of corresponding research program in our [research](/research) page, and the associated links give you the most relevant paper of the lab in those domains.
+
+We also regularly announce potential master thesis project for people who expressed interest through our [CMC interest form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link). 
+If you are interested you can sign up there.
+
 
 <table>
 <!-- header -->
 <tr style="background-color: #333; color: white;">
 <th>Project code</th>
 <th>Project theme</th>
-<th>Contact</th>
+<th>Related research program(s)</th>
+<th>Contact person</th>
 </tr>
 <!-- start of block -->
 <!-- start of row -->
 <!-- neural event -->
 <tr>
 <td>
-[bne_01_gen](https://forms.gle/z2uxZ8Cr2nzKVWFk8)
+[bne_msc_gen01]({{ site.baseurl }}/join/bne_msc_gen01)
 </td>
  <td style="text-align: left;">
-Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
-Fascinating aspect of neural events is their multi-scale signatures, and their behavioral relevance.
-For instance Sharp-Wave Ripples is one of the most studied neural events and, it has been shown they are broadly involved in cognitive functions (from memory consolidation to  planning). 
-	In collaboration with experimental labs (e.g., [Oliva-Fernandez-Ruiz lab](https://braincomputation.org/) in Cornell) we will explore different events and their behavioral signatures. 
+	In collaboration with experimental labs (e.g., [Oliva-Fernandez-Ruiz lab](https://braincomputation.org/)) we will identify different neural events and explore their behavioral relevance. 
 </td>
 <td>
-{%
-include portrait.html
-lookup="shervin-safavi"
-style="tiny"
-%}
+[MNBD]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22),
+[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22)
+</td>
+<td>
+[Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi)
 </td>
 </tr>
 <!-- end of row -->
 <!-- start of row -->
 <tr style="background-color: #f0f0f0;">
 <td>
-[crnn_01_dyn](https://forms.gle/z2uxZ8Cr2nzKVWFk8)
+[crnn_msc_dyn01](https://forms.gle/z2uxZ8Cr2nzKVWFk8)
 </td>
  <td style="text-align: left;">
 Recurrent neural networks (RNNs) have been tremendously helpful for understanding the dynamics underlying neural computations. 
 One limiting factor of RNNs for understanding the brain circuits, 
 is their weak connection with more biologically plausible networks. 
 In this project we explore how we can relate the dynamics of RNN to their counterparts in more plausible biological neural networks. 
+</td>
+<td>
+[MNBD]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22),
+[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22)
 </td>
 <td>
 {%
@@ -99,8 +108,5 @@ style="tiny"
 <!-- end of row -->
 <!-- start of block -->
 </table>
-
-We also regularly announce potential master thesis project for people who expressed interest through our [CMC interest form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link). 
-If you are interested you can sign up there.
 
 
