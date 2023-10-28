@@ -5,7 +5,14 @@ nav:
   tooltip: Open positions, applications, etc
 ---
 
-# Join us
+What you want to know?
+
+- [Joining us in general?](#genDes)
+- [Open positions?](#openPos)
+- [Support for fellowship applications?](#supportFundApp)
+
+ <a id="genDes"></a>
+# Joining us
 
 
 We are always excited about having new team members!
@@ -36,6 +43,7 @@ Forms provided in this page are more reliable than emails, and we try our best t
   content=formAlert
 %}
 
+ <a id="openPos"></a>
 # Open positions
 ## PhD position
 ### Neural events
@@ -75,8 +83,8 @@ If you are interested you can sign up there.
 	In collaboration with experimental labs (e.g., [Oliva-Fernandez-Ruiz lab](https://braincomputation.org/)) we will identify different neural events and explore their behavioral relevance. 
 </td>
 <td>
-[MNBD]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22),
-[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22)
+[MNBD]({{ site.baseurl }}/publications/?search="tag%3A+multi-scale+analysis"+OR+"tag%3A+multi-scale+methods"),
+[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20criticality%22)
 </td>
 <td>
 [Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi)
@@ -94,8 +102,8 @@ If you are interested you can sign up there.
 In this project we explore how we can relate the low dimensional dynamics of RNN to their counterparts in more plausible biological neural networks. 
 </td>
 <td>
-[MNBD]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22),
-[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20cognition%22)
+MNBD,
+[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20criticality%22)
 </td>
 <td>
 [Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi)
@@ -105,4 +113,7 @@ In this project we explore how we can relate the low dimensional dynamics of RNN
 <!-- start of block -->
 </table>
 
+ <a id="supportFundApp"></a>
+# Support for fellowship applications
 
+If you interested to join our lab (e.g., as a post-doc), we'd be happy to support you to apply for felloships, such [DFG Benjamin Walter ](https://www.dfg.de/foerderung/programme/einzelfoerderung/walter_benjamin/), [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/), and others. Please get in touch with [Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi).

@@ -28,8 +28,15 @@ We do normative and biophysical modeling (with the goal of combining them) to un
   type="info"
   content=sumLabResMeth
 %}
-	
 
+At the moment we are perusing our key goal through the following research program?
+
+1. [**CMPD:** **C**omputational **M**achinery of **P**erceptual **D**ecision-making](#cmpd)
+2. [**MNBD:** **M**ulti-scale analysis of **N**eural and **B**ehavioral **D**ata](#mnbd)
+3. [**CFDN:** **C**riticality in **F**unctional and **D**ysfunctional **N**eural systems](#cfdn)
+3. [**HNNC:** **H**ybrid **N**eural **N**etworks for **C**ognitive Neuroscience](#hnnc)
+
+ <a id="cmpd"></a>
 ## Computational machinery of perceptual decision-making (CMPD)
 
 We want develop *functional* multi-scale models of decision processes,
@@ -76,6 +83,8 @@ Check [here]({{ site.baseurl }}/publications/?search="tag%3A+cognition"+OR+"tag%
   content=nemcPaps
 %}
 
+
+ <a id="mnbd"></a>
 ## Multi-scale analysis of neural and behavioral data (MNBD)
 
 We develop *multi-modal **methods** for the analysis of brain data*. 
@@ -119,7 +128,7 @@ Check [here]({{ site.baseurl }}/publications/?search="tag%3A+multi-scale+analysi
   content=nemcPaps
 %}
 
-
+ <a id="cfdn"></a>
 ## Criticality in functional and dysfunctional neural systems (CFDN)
 
 We will use *"brain criticality hypothesis"* which has the potential of bridging
@@ -160,6 +169,7 @@ Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20criticality%22) f
   content=nemcPaps
 %}
 
+<a id="hnnc"></a>
 ## Hybrid neural networks for cognitive neuroscience (HNNC)
 
 Artificial neural network (ANN) have been influential for understanding the neural computations, 
