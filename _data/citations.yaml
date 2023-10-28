@@ -12,7 +12,7 @@
   - Theofanis I. Panagiotaropoulos
   publisher: Neuron
   date: '2023-05-01'
-  link: https://doi.org/10.1016/j.neuron.2023.02.027
+  link: https://doi.org/gswshm
   orcid: 0000-0002-2868-530X
   plugin: sources.py
   file: sources.yaml
@@ -20,7 +20,7 @@
   buttons:
   - type: website
     text: PDF
-    link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/SafaviDayan_Neuron2022.pdf
+    link: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publications/Dwarakanath_Neuron2023.pdff
   tags:
   - neural machinery
   - perceptual multistability
@@ -137,6 +137,15 @@
   - perceptual decision-making
   - cognition
 - id: doi:10.1162/neco_a_01389
+  title: 'From Univariate to Multivariate Coupling Between Continuous Signals and
+    Point Processes: A Mathematical Framework'
+  authors:
+  - Shervin Safavi
+  - Nikos K. Logothetis
+  - Michel Besserve
+  publisher: Neural Computation
+  date: '2021-06-11'
+  link: https://doi.org/gn23p3
   orcid: 0000-0002-2868-530X
   plugin: sources.py
   file: sources.yaml
