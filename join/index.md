@@ -134,4 +134,4 @@ MNBD,
  <a id="supportFundApp"></a>
 # Support for fellowship applications
 
-If you interested to join our lab (e.g., as a post-doc), we'd be happy to support you to apply for felloships, such [DFG Benjamin Walter ](https://www.dfg.de/foerderung/programme/einzelfoerderung/walter_benjamin/), [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/), and others. Please get in touch with [Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi).
+If you are interested to join our lab (e.g., as a post-doc), we'd be happy to support you to apply for fellowships, such [DFG Benjamin Walter ](https://www.dfg.de/foerderung/programme/einzelfoerderung/walter_benjamin/), [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/), and others. Please get in touch with [Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi).
