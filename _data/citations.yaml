@@ -44,6 +44,11 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: In this study we provide one of the first multi-variate methodology
+    for investigating spike-LFP coupling, that allow us to connect neural activity
+    to population dynamics. The method accompanied with large body of biophysical
+    simulation, as well as analysis of prefrontal recurrent circuitry.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1010983.g005
   tags:
   - multi-scale methods
   - biophysical modeling
@@ -61,7 +66,18 @@
   orcid: 0000-0002-2868-530X
   plugin: sources.py
   file: sources.yaml
-  type: paper
+  type: preprint
+  description: In this study, we probe the connection between the optimality discussed
+    in the context of criticality hypothesis of the brain (that very much tied to
+    neural dynamics), and the optimality discussed in theories of neural computations.
+    We examine an efficient coding network for signatures of criticality and we find
+    signatures of criticality emerging in a network that was designed based on criticality-agnostic
+    principles merely by optimizing the coding performance. This suggests criticality
+    and efficient coding might be intimately related.
+  image: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publicationsThumbnails/safavi2023sig_thumbnail.png
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2023.02.14.528465
   tags:
   - criticality
   - neural computations
