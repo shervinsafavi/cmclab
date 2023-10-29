@@ -5,16 +5,6 @@ nav:
   tooltip: Open positions, applications, etc
 ---
 
-What you want to know?
-
-- [Joining us in general?](#genDes)
-- [Open positions?](#openPos)
-- [Support for fellowship applications?](#supportFundApp)
-
- <a id="genDes"></a>
-# Joining us
-
-
 We are always excited about having new team members!
 
 {% capture labPhyloAlert %}
@@ -26,6 +16,15 @@ Check [lab's mentorship philosophy]({{ site.baseurl }}/join/mentorshipPhylo) to 
   type="info"
   content=labPhyloAlert
 %}
+
+What you want to know?
+
+- [Joining us in general?](#genDes)
+- [Open positions?](#openPos)
+- [Support for fellowship applications?](#supportFundApp)
+
+ <a id="genDes"></a>
+# Joining us
 
 If you are interested in one of our open positions please proceed as instructed in the call; 
 If you you interested in our research and would like to receive the open calls (for internship, master, PhD, and postdoc), please sign up with [this form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link).
@@ -111,6 +110,25 @@ MNBD,
 </tr>
 <!-- end of row -->
 <!-- start of block -->
+<!-- bne_msc_gen01  -->
+<!-- start of row -->
+<tr>
+<td>
+[mscri_msc_cebra]({{ site.baseurl }}/join/mscri_msc_cebra)
+</td>
+ <td style="text-align: left;">
+	In collaboration with [Roxana Zeraati](https://www.kyb.tuebingen.mpg.de/person/59155/250676) we will do event-based analysis of large-scale brain dynamics using [CEBRA](https://www.nature.com/articles/s41586-023-06031-6).
+</td>
+<td>
+[MNBD]({{ site.baseurl }}/publications/?search="tag%3A+multi-scale+analysis"+OR+"tag%3A+multi-scale+methods"),
+[CFDN]({{ site.baseurl }}/publications/?search=%22tag:%20criticality%22)
+</td>
+<td>
+[Shervin Safavi]({{ site.baseurl }}/members/shervin-safavi)
+</td>
+</tr>
+<!-- end of row -->
+<!--  -->
 </table>
 
  <a id="supportFundApp"></a>
