@@ -2,7 +2,10 @@
 title: Master thesis projects
 ---
 
-# Master thesis projects
+# Short-term projects projects (e.g., master thesis)
+
+Below is the list of short-term projects projects (including thesis projects).
+They might need be further tailored according according to your program need (e.g., length of the internship or rotation). 
 
 <table>
 <!-- header -->
@@ -113,3 +116,7 @@ We will examine the scale-freeness of membrane potentials in a functional networ
 </tr>
 <!-- end of row -->
 </table>
+
+
+<!-- jeal laurent  -->
+<!-- gpla -->

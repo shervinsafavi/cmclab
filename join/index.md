@@ -49,12 +49,12 @@ Forms provided in this page are more reliable than emails, and we try our best t
 ### Neural events
 We have an opening for a PhD student for analysis of neural events. Please check [here]({{ site.baseurl }}/join/bne_phd_202310) for more details on theme of the research question, and [here](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-position-m-f-x) for the official advertisement.
 
-## Master thesis projects
+## Short-term projects (MSc, BCs thesis, rotation, internship)
 
-There are multiple master thesis project in the lab.
+There are multiple possibilities for short-term project (e.g., MSc, BCs thesis, rotation, internship, etc) in the lab.
 
 {% capture mscThAlert %}
-[Here]({{ site.baseurl }}/join/masterThesisProjs), we try to maintain an updated **list of potential thesis project**.
+[Here]({{ site.baseurl }}/join/masterThesisProjs), we try to maintain an updated **list of potential short-term projects**.
 {% endcapture %}
 
 {%
@@ -69,7 +69,7 @@ project code.
 If that doesn't help and you need further information please get in touch with the contact person (forth column), otherwise filling the [application form](https://forms.gle/wGbSMoEdqBXBtaG3A) is enough and we'll get back to you as soon as possible.
 To help you connect these projects to the global research of the lab, in the third column we provide the keywords of corresponding research program in our [research](/research) page, and the associated links give you the most relevant paper of the lab in those domains.
 
-We also regularly announce potential master thesis project for people who expressed interest through our [CMC interest form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link). 
+We also regularly announce potential short-term project (e.g., master thesis) for people who expressed interest through our [CMC interest form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link). 
 If you are interested you can sign up there.
 
 
