@@ -22,7 +22,7 @@ Thus, the mentor and mentee should identify together the most suitable supervisi
 
 **Scholarship beyond research:**
 In our lab mentor should
-provide manatees the training for all aspects of scholarship rather than
+provide mentees the training for all aspects of scholarship rather than
 just research. That includes, for instance, peer-review, by involving
 them in the peer-review processes, and particularly train them to
 [criticize with

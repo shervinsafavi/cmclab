@@ -14,7 +14,7 @@ Overall, in this project, we will find accessible neural markers of cognitive pr
 
 CMC lab strives to create an inclusive and diverse environment. We therefore expressly encourage everyone (in particular minorities) to consider joining us.
 
-## Skill we might need (N=necessary, D=desired, P=plus)
+## Suggested skills (N=necessary, D=desired, P=plus)
 
 - (N) Have background (Master/Diploma) in (computational) neuroscience, neuroscience, physics, mathematics, statistics, machine learning, psychology, and other related fields.
 - (N) Being comfortable with programming (best would be, Python, or Matlab).
