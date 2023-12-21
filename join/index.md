@@ -54,7 +54,7 @@ We have an opening for a PhD student for analysis of neural events. Please check
 There are multiple possibilities for short-term project (e.g., MSc, BCs thesis, rotation, internship, etc) in the lab.
 
 {% capture mscThAlert %}
-We try to maintain an updated **list of potential short-term projects**. If you are interested please send an email to [project-list-request@cmclab.org](project-list-request@cmclab.org).
+We try to maintain an updated **list of potential short-term projects**. If you are interested please send an email to [project-list-request@cmclab.org](mailto:project-list-request@cmclab.org).
 {% endcapture %}
 
 {%
