@@ -18,6 +18,11 @@ undergrad:
   icon: 
   description: Undergraduate Student
 
+ra:
+  icon: 
+  description: Research assistant
+
+
 programmer:
   icon: 
   description: Programmer
