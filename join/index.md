@@ -5,7 +5,7 @@ nav:
   tooltip: Open positions, applications, etc
 ---
 
-We are always excited about having new team members!
+We are always excited about having new team members and new ideas!
 
 {% capture labPhyloAlert %}
 Check [lab's mentorship philosophy]({{ site.baseurl }}/join/mentorshipPhylo) to get to know us better.
@@ -54,7 +54,7 @@ We have an opening for a PhD student for analysis of neural events. Please check
 There are multiple possibilities for short-term project (e.g., MSc, BCs thesis, rotation, internship, etc) in the lab.
 
 {% capture mscThAlert %}
-[Here]({{ site.baseurl }}/join/masterThesisProjs), we try to maintain an updated **list of potential short-term projects**.
+We try to maintain an updated **list of potential short-term projects**. If you are interested please send an email to [project-list-request@cmclab.org](project-list-request@cmclab.org).
 {% endcapture %}
 
 {%
@@ -63,11 +63,8 @@ There are multiple possibilities for short-term project (e.g., MSc, BCs thesis, 
   content=mscThAlert
 %}
 
-If you are interested please fill [this form](https://forms.gle/wGbSMoEdqBXBtaG3A), and select the corresponding project code. 
-For most of the projects, more description is also provided in link associated to the 
-project code.
-If that doesn't help and you need further information please get in touch with the contact person (forth column), otherwise filling the [application form](https://forms.gle/wGbSMoEdqBXBtaG3A) is enough and we'll get back to you as soon as possible.
-To help you connect these projects to the global research of the lab, in the third column we provide the keywords of corresponding research program in our [research](/research) page, and the associated links give you the most relevant paper of the lab in those domains.
+If you are interested please fill [this form](https://forms.gle/wGbSMoEdqBXBtaG3A), and type in the corresponding project code. 
+If you need further information about the project please get in touch with the contact person, otherwise filling the [application form](https://forms.gle/wGbSMoEdqBXBtaG3A) is enough and we'll get back to you as soon as possible.
 
 We also regularly announce potential short-term project (e.g., master thesis) for people who expressed interest through our [CMC interest form](https://docs.google.com/forms/d/e/1FAIpQLSd8V5Mu8d-JwZXjs_Ck5toLl0IBg5pTpTrZs4A_QW-71pi13A/viewform?usp=sf_link). 
 If you are interested you can sign up there.
