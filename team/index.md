@@ -11,7 +11,18 @@ In our lab, we value collaboration, equality, diversity, inclusion. We also resp
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="group: "%}
+{% include list.html data="members" component="portrait" filters="role: pi" %} {% include list.html data="members" component="portrait" filters="role: phd" %} {% include list.html data="members" component="portrait" filters="role: msc" %} {% include list.html data="members" component="portrait" filters="role: ra" %}
+
+<!-- <p style="text-align: center;"><strong>Principal Investigators</strong></p> -->
+<!-- {% include list.html data="members" component="portrait" filters="role: pi" %}  -->
+
+
+<!-- <p style="text-align: center;"><strong>Graduate students</strong></p> -->
+<!-- {% include list.html data="members" component="portrait" filters="role: phd" %}  -->
+
+
+<!-- <p style="text-align: center;"><strong>Undergrad students</strong></p> -->
+<!-- {% include list.html data="members" component="portrait" filters="role: msc" %} {% include list.html data="members" component="portrait" filters="role: ra" %} -->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
