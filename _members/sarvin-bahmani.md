@@ -6,9 +6,9 @@ aliases:
   - Sarvin
 links:
   email: rezvanbahmani1997@gmail.com
-  github: https://github.com/Sarv-Bahmani
-  google-scholar: https://scholar.google.ch/citations?user=kPYqpxMAAAAJ&hl=en
-  instagram: https://www.instagram.com/sarv_bahmani/
+  github: Sarv-Bahmani
+  google-scholar: kPYqpxMAAAAJ&hl=en
+  instagram: sarv_bahmani
 ---
 
   My name is Rezvan Bahmani, recently graduated from University of Tehran in Computer Engineering, currently a research intern at CMC lab under Prof. Safavi’s supervision.
