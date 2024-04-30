@@ -1,5 +1,5 @@
 ---
-name: Effat Salehifar
+name: Effat
 image: images/EffatSalehifar.jpg
 role: ra
 aliases:
