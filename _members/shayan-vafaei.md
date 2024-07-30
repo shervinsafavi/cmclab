@@ -1,7 +1,7 @@
 ---
 name: Shayan Vafaei
 image: images/ShayanVafaei.jpg
-role: ra
+role: almuni
 aliases:
   - S. Vafaei
   - S Vafaei
