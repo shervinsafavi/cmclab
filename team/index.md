@@ -11,7 +11,7 @@ In our lab, we value collaboration, equality, diversity, inclusion. We also resp
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %} {% include list.html data="members" component="portrait" filters="role: phd" %} {% include list.html data="members" component="portrait" filters="role: msc" %} {% include list.html data="members" component="portrait" filters="role: ra" %}
+{% include list.html data="members" component="portrait" filters="role: pi" %} {% include list.html data="members" component="portrait" filters="role: phd" %} {% include list.html data="members" component="portrait" filters="role: msc" %} {% include list.html data="members" component="portrait" filters="role: ra, group: " %}
 
 <!-- <p style="text-align: center;"><strong>Principal Investigators</strong></p> -->
 <!-- {% include list.html data="members" component="portrait" filters="role: pi" %}  -->
@@ -36,15 +36,16 @@ In our lab, we value collaboration, equality, diversity, inclusion. We also resp
 
 {% include section.html %}
 
-<!-- ## Alumni -->
+## Alumni
 
-<!-- Gone but never forgotten. -->
-<!-- These are past lab members who have moved on to other school programs, new jobs, or elsewhere. -->
-<!-- They have all made lasting contributions to science and to our hearts. ❤️ -->
+Gone but never forgotten.
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+They have all made lasting contributions to science and to our hearts. ❤️
 
-<!-- {% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %} -->
-<!-- {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %} -->
-<!-- {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %} -->
-<!-- {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %} -->
-<!-- {% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %} -->
-<!-- {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %} -->
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: alum" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}

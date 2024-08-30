@@ -1,7 +1,8 @@
 ---
-name: Shayan Vafaei
+name: Shayan Vafaei (Now BSc in Shahid Beheshti U.)
 image: images/ShayanVafaei.jpg
-role: almuni
+role: ra
+group: alum
 aliases:
   - S. Vafaei
   - S Vafaei
