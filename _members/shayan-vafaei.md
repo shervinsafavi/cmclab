@@ -1,5 +1,5 @@
 ---
-name: Shayan Vafaei (Now BSc in Shahid Beheshti U.)
+name: Shayan Vafaei
 image: images/ShayanVafaei.jpg
 role: ra
 group: alum
