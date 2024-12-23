@@ -2,6 +2,7 @@
 name: Amirali Soltani
 image: images/AmiraliSoltani.jpg
 role: ra
+group: alum
 aliases:
   - A. Soltani
   - A Soltani
