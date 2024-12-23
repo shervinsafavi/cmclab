@@ -2,6 +2,7 @@
 name: Sara Khamseh
 image: images/SaraKhamseh.jpg
 role: ra
+group: alum
 links:
   linkedin: sara-khamseh-805732270
   email: khamsehsarah@gmail.com

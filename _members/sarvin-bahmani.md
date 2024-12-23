@@ -2,6 +2,7 @@
 name: Rezvan Bahmani
 image: images/SarvinBahmani.jpg
 role: ra
+group: alum
 aliases:
   - Sarvin
 links:

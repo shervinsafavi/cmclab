@@ -2,6 +2,7 @@
 name: Salar Nouri
 image: images/SalarNouri.jpg
 role: ra
+group: alum
 aliases:
   - S. Nouri
   - S Nouri
