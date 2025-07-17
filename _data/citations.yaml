@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.12.06.627286
+  title: 'A decision-theoretic model of multistability: perceptual switches as internal
+    actions'
+  authors:
+  - Shervin Safavi
+  - Peter Dayan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-12-11'
+  link: https://doi.org/g8wqnm
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2302730121
+  title: Signatures of criticality in efficient coding networks
+  authors:
+  - Shervin Safavi
+  - Matthew Chalk
+  - Nikos K. Logothetis
+  - Anna Levina
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-10-01'
+  link: https://doi.org/g8wqnn
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.neuron.2023.02.027
   title: Bistability of prefrontal states gates access to consciousness
   authors:
@@ -52,38 +77,6 @@
   tags:
   - multi-scale methods
   - biophysical modeling
-  - neural machinery
-- id: doi:10.1101/2023.02.14.528465
-  title: Signatures of criticality in efficient coding networks
-  authors:
-  - Shervin Safavi
-  - Matthew Chalk
-  - Nikos Logothetis
-  - Anna Levina
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-14'
-  link: https://doi.org/gswshp
-  orcid: 0000-0002-2868-530X
-  plugin: sources.py
-  file: sources.yaml
-  type: preprint
-  description: In this study, we probe the connection between the optimality discussed
-    in the context of criticality hypothesis of the brain (that very much tied to
-    neural dynamics), and the optimality discussed in theories of neural computations.
-    We examine an efficient coding network for signatures of criticality and we find
-    signatures of criticality emerging in a network that was designed based on criticality-agnostic
-    principles merely by optimizing the coding performance. This suggests criticality
-    and efficient coding might be intimately related.
-  image: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publicationsThumbnails/safavi2023sig_thumbnail.png
-  buttons:
-  - type: preprint
-    link: https://doi.org/10.1101/2023.02.14.528465
-  tags:
-  - criticality
-  - neural computations
-  - biophysical modeling
-  - bridge computation-machinery
-  - neural dynamics
   - neural machinery
 - id: doi:10.15496/PUBLIKATION-69434
   title: Brain as a Complex System, harnessing systems neuroscience tools &amp; notions
@@ -246,3 +239,34 @@
   - cognition
   - perceptual multistability
   - multi-scale analysis
+- id: doi:10.1101/2023.02.14.528465
+  title: Signatures of criticality in efficient coding networks
+  authors:
+  - Shervin Safavi
+  - Matthew Chalk
+  - Nikos Logothetis
+  - Anna Levina
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-14'
+  link: https://doi.org/gswshp
+  type: preprint
+  description: In this study, we probe the connection between the optimality discussed
+    in the context of criticality hypothesis of the brain (that very much tied to
+    neural dynamics), and the optimality discussed in theories of neural computations.
+    We examine an efficient coding network for signatures of criticality and we find
+    signatures of criticality emerging in a network that was designed based on criticality-agnostic
+    principles merely by optimizing the coding performance. This suggests criticality
+    and efficient coding might be intimately related.
+  image: https://filedn.eu/lTiemQ34dUJF1QIztSMLoPJ/CMC_lab_publicationsThumbnails/safavi2023sig_thumbnail.png
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2023.02.14.528465
+  tags:
+  - criticality
+  - neural computations
+  - biophysical modeling
+  - bridge computation-machinery
+  - neural dynamics
+  - neural machinery
+  plugin: sources.py
+  file: sources.yaml
