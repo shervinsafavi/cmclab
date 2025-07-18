@@ -1,7 +1,7 @@
 ---
 name: Hang Yin
 image: images/HangYin.jpg
-role: master student
+role: msc
 aliases:
   - Hang
 ---
