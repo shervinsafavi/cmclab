@@ -54,25 +54,27 @@ jobs:
           files: |
             _data/citations.yaml
 
-      # Push to a new branch instead of main
+      # Commit to a dedicated branch (not main)
       - name: Commit updated citations to new branch
         if: steps.changed.outputs.files_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update citations"
-          branch: citation-update  # <--- NEW branch
+          branch: citation-update
           create_branch: true
 
+      # Open a PR from that branch into main
       - name: Open pull request with updated citations
         if: steps.changed.outputs.files_changed == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
           branch: citation-update
+          base: main                    # <-- important!
           title: Periodic citation update
           body: |
             This PR updates citations automatically.
           commit-message: "Update citations"
-          delete-branch: false  # optional: leave the branch for history
+          delete-branch: false
 
     outputs:
       changed: ${{ steps.changed.outputs.files_changed }}
