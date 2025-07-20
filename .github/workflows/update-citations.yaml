@@ -2,7 +2,6 @@ name: update-citations
 run-name: update citations
 
 on:
-  # run when called from another workflow
   workflow_call:
     inputs:
       open-pr:
@@ -11,7 +10,6 @@ on:
       changed:
         value: ${{ jobs.update-citations.outputs.changed }}
 
-  # run if user manually requests it
   workflow_dispatch:
 
 permissions:
@@ -28,15 +26,11 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # for debugging
       - name: Print contexts
         uses: crazy-max/ghaction-dump-context@v1
 
       - name: Checkout branch contents
         uses: actions/checkout@v3
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.head_ref }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -60,22 +54,25 @@ jobs:
           files: |
             _data/citations.yaml
 
-      - name: Commit updated citations to branch
-        if: |
-          steps.changed.outputs.files_changed == 'true' &&
-          inputs.open-pr != true
+      # Push to a new branch instead of main
+      - name: Commit updated citations to new branch
+        if: steps.changed.outputs.files_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update citations"
+          branch: citation-update  # <--- NEW branch
+          create_branch: true
 
       - name: Open pull request with updated citations
-        if: |
-          steps.changed.outputs.files_changed == 'true' &&
-          inputs.open-pr == true
+        if: steps.changed.outputs.files_changed == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
           branch: citation-update
           title: Periodic citation update
+          body: |
+            This PR updates citations automatically.
+          commit-message: "Update citations"
+          delete-branch: false  # optional: leave the branch for history
 
     outputs:
       changed: ${{ steps.changed.outputs.files_changed }}
