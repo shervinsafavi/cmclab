@@ -29,6 +29,10 @@ jobs:
       - name: Print contexts
         uses: crazy-max/ghaction-dump-context@v1
 
+      - name: Set dynamic branch name
+        id: branch
+        run: echo "name=citation-update-${{ github.run_id }}" >> "$GITHUB_OUTPUT"
+
       - name: Checkout branch contents
         uses: actions/checkout@v3
 
@@ -49,32 +53,3 @@ jobs:
 
       - name: Check if citations changed
         id: changed
-        uses: tj-actions/verify-changed-files@v13
-        with:
-          files: |
-            _data/citations.yaml
-
-      # Commit to a dedicated branch (not main)
-      - name: Commit updated citations to new branch
-        if: steps.changed.outputs.files_changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update citations"
-          branch: citation-update
-          create_branch: true
-
-      # Open a PR from that branch into main
-      - name: Open pull request with updated citations
-        if: steps.changed.outputs.files_changed == 'true'
-        uses: peter-evans/create-pull-request@v4
-        with:
-          branch: citation-update
-          base: main                    # <-- important!
-          title: Periodic citation update
-          body: |
-            This PR updates citations automatically.
-          commit-message: "Update citations"
-          delete-branch: false
-
-    outputs:
-      changed: ${{ steps.changed.outputs.files_changed }}
