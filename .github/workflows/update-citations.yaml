@@ -83,6 +83,7 @@ jobs:
           inputs.open-pr != true
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+	  branch: auto/update-citations  # Use a new branch instead of main
           commit_message: "Update citations"
 
       - name: Open pull request with updated citations
