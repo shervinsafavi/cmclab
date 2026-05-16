@@ -12,5 +12,5 @@ Highlights:
 - Novel computational frameworks can integrate classical Bayesian and recent reinforcement learning approaches and provide a framework to explain these differences and bridge cognitive and neural mechanisms.
 - Given the translational potential of multistability, it can also be a promising experimental tool to link malfunctioning computations to underlying neurobiology in animal models of psychiatric disorders.
 
-You can check out the details [here] (https://bsky.app/profile/cmc-lab.bsky.social/post/3mgnifv3vuc2w).
+You can check out the details [here](https://bsky.app/profile/cmc-lab.bsky.social/post/3mgnifv3vuc2w).
 
