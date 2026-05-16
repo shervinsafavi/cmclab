@@ -8,7 +8,6 @@ aliases:
   - Yunhan
   - Yunhan Hao
 links:
-  orcid: 
   linkedin: yunhan-hao-9804272a3
   email: yunhanhao72@gmail.com
   github: YunhanHao72
