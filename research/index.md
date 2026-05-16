@@ -5,10 +5,11 @@ nav:
   tooltip: Research in the lab
 ---
 
-# Research
 
 <img src="{{ '/images/research.png' | relative_url }}"
      style="display:block; margin:0 auto; width:90%; height:auto;">
+
+# Research
 
 Adaptation serves as the cornerstone of biological intelligence, shaping the entire cognitive hierarchy from sensation to executive functions. Adaptive decisions lie at the core of this behavioral flexibility, emerging across species through evolution, development, and learning. In the CMC Lab, we investigate the shared and species-specific mechanisms of adaptive decision-making to uncover its underlying computational, biological, and ecological principles.
 
