@@ -1,12 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.tics.2026.02.008
+  title: 'Perceptual multistability: a multifaceted window into brain dysfunctions'
+  authors:
+  - Shervin Safavi
+  - "Dana\xE9 Rolland"
+  - Philipp Sterzer
+  - Renaud Jardri
+  - Pantelis Leptourgos
+  publisher: Trends in Cognitive Sciences
+  date: '2026-04-01'
+  link: https://doi.org/hb4kb5
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21105/joss.09302
+  title: 'TranCIT: Transient Causal Interaction Toolbox'
+  authors:
+  - Salar Nouri
+  - Kaidi Shao
+  - Shervin Safavi
+  publisher: Journal of Open Source Software
+  date: '2025-12-30'
+  link: https://doi.org/hbvjfp
+  orcid: 0000-0002-2868-530X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.12.06.627286
   title: 'A decision-theoretic model of multistability: perceptual switches as internal
     actions'
   authors:
   - Shervin Safavi
   - Peter Dayan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-12-11'
   link: https://doi.org/g8wqnm
   orcid: 0000-0002-2868-530X
@@ -239,6 +265,129 @@
   - cognition
   - perceptual multistability
   - multi-scale analysis
+- id: doi:10.1103/physrevresearch.6.023131
+  title: Topology-dependent coalescence controls scaling exponents in finite networks
+  authors:
+  - Roxana Zeraati
+  - "Victor Buend\xEDa"
+  - Tatiana A. Engel
+  - Anna Levina
+  publisher: Physical Review Research
+  date: '2024-05-06'
+  link: https://doi.org/hb4k56
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: Emergent mechanisms for long timescales depend on training curriculum and
+    affect performance in memory tasks
+  publisher: The Twelfth International Conference on Learning Representations
+  date: '2024-06-20'
+  link: https://openreview.net/forum?id=xwKt6bUkXj
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-37613-7
+  title: Intrinsic timescales in the visual cortex change with selective attention
+    and reflect spatial connectivity
+  authors:
+  - Roxana Zeraati
+  - Yan-Liang Shi
+  - Nicholas A. Steinmetz
+  - Marc A. Gieselmann
+  - Alexander Thiele
+  - Tirin Moore
+  - Anna Levina
+  - Tatiana A. Engel
+  publisher: Nature Communications
+  date: '2023-04-03'
+  link: https://doi.org/gr3t9s
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physrevresearch.5.013005
+  title: Spatial and temporal correlations in neural networks with structured connectivity
+  authors:
+  - Yan-Liang Shi
+  - Roxana Zeraati
+  - Anna Levina
+  - Tatiana A. Engel
+  publisher: Physical Review Research
+  date: '2023-01-06'
+  link: https://doi.org/g88d2s
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43588-022-00214-3
+  title: A flexible Bayesian framework for unbiased estimation of timescales
+  authors:
+  - Roxana Zeraati
+  - Tatiana A. Engel
+  - Anna Levina
+  publisher: Nature Computational Science
+  date: '2022-03-24'
+  link: https://doi.org/gsfcs2
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphy.2021.619661
+  title: Self-Organization Toward Criticality by Synaptic Plasticity
+  authors:
+  - Roxana Zeraati
+  - Viola Priesemann
+  - Anna Levina
+  publisher: Frontiers in Physics
+  date: '2021-04-22'
+  link: https://doi.org/gmbhtj
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jn.00019.2018
+  title: Interspike interval analysis and spikelets in presubicular head-direction
+    cells
+  authors:
+  - Stefano Coletta
+  - Roxana Zeraati
+  - Khaled Nasr
+  - Patricia Preston-Ferrer
+  - Andrea Burgalossi
+  publisher: Journal of Neurophysiology
+  date: '2018-08-01'
+  link: https://doi.org/gd3fsb
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2018.03.031
+  title: Manipulating Hippocampal Place Cell Activity by Single-Cell Stimulation in
+    Freely Moving Mice
+  authors:
+  - Maria Diamantaki
+  - Stefano Coletta
+  - Khaled Nasr
+  - Roxana Zeraati
+  - Sophie Laturnus
+  - Philipp Berens
+  - Patricia Preston-Ferrer
+  - Andrea Burgalossi
+  publisher: Cell Reports
+  date: '2018-04-01'
+  link: https://doi.org/hb4k57
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:https://doi.org/10.1007/s11571-017-9434-4
+  title: Scale-freeness of dominant and piecemeal perceptions during binocular rivalry
+  authors:
+  - Fatemeh Bakouie
+  - Morteza Pishnamazi
+  - Roxana Zeraati
+  - Shahriar Gharibzadeh
+  publisher: Cognitive Neurodynamics
+  date: '2017-08-01'
+  link: https://doi.org/hb4k58
+  orcid: 0000-0001-7946-1464
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.02.14.528465
   title: Signatures of criticality in efficient coding networks
   authors:
@@ -246,7 +395,7 @@
   - Matthew Chalk
   - Nikos Logothetis
   - Anna Levina
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-02-14'
   link: https://doi.org/gswshp
   type: preprint
