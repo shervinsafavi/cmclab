@@ -19,6 +19,10 @@ There is much computation going on in our brain to sort out each of those questi
 And, at the end, all is happening in a piece of wet machinery (brain).
 We want to understand how our brain does those computations and how they are implemented (biophysics of computations).
 
+<p align="center">
+  <img src="/images/research.png" style="width:100%; max-width:100%;">
+</p>
+
 {% capture sumLabResMeth %}
 We do normative and biophysical modeling (with the goal of combining them) to understand the cognitive functions; we will test these models with neural and behavioral data (in collaboration with experimental labs); and we will develop machine learning methods for multi- and cross-scale analysis of neural data to first better understand the multi-scale machinery of the brain, and second better capture the neural markers of underlying cognitive (sub-)processes and ultimately connect them to underlying computations. 
 {% endcapture %}
