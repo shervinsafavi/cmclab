@@ -4,7 +4,7 @@ author: shervin-safavi
 tags: lab-updates
 ---
 
-We presented 3 posters at Cosyne 2026. 
+We presented 3 exciting posters at Cosyne 2026!!! 
 
 1. "Unsupervised identification of behaviorally-relevant neural states with non-linear temporal embeddings". Arman Behrad, Maximilian Schwabe, Christian Beste, Shervin Safavi.
 
