@@ -1,7 +1,7 @@
 ---
 name: Hang Yin
 image: images/HangYin.jpg
-role: alum
+group: alum
 aliases:
   - Hang
 ---
