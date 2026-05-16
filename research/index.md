@@ -7,184 +7,33 @@ nav:
 
 # Research
 
-The overarching research theme of our lab is understanding the computational machinery of cognitive processes. Cognition spans a wide range of functions (from perception to planning), and it is one of the most remarkable capabilities of the brain. 
-In CMC lab we want to understand the computations underlying cognitive processes, 
-and the biophysical machinery that implement these computations.
-Imagine we go to a restaurant and want to order a dish. 
-For such decisions brain needs to take into account several factors: 
-_how much we like each option_, 
-_how much we want to explore new options_, 
-_how pricey they are_, ... .
-There is much computation going on in our brain to sort out each of those questions.
-And, at the end, all is happening in a piece of wet machinery (brain).
-We want to understand how our brain does those computations and how they are implemented (biophysics of computations).
 
-{% capture sumLabResMeth %}
-We do normative and biophysical modeling (with the goal of combining them) to understand the cognitive functions; we will test these models with neural and behavioral data (in collaboration with experimental labs); and we will develop machine learning methods for multi- and cross-scale analysis of neural data to first better understand the multi-scale machinery of the brain, and second better capture the neural markers of underlying cognitive (sub-)processes and ultimately connect them to underlying computations. 
-{% endcapture %}
+Adaptation serves as the cornerstone of biological intelligence, shaping the entire cognitive hierarchy from sensation to executive functions. Adaptive decisions lie at the core of this behavioral flexibility, emerging across species through evolution, development, and learning. In the CMC Lab, we investigate the shared and species-specific mechanisms of adaptive decision-making to uncover its underlying computational, biological, and ecological principles.
 
-{%
-  include alert.html
-  type="info"
-  content=sumLabResMeth
-%}
-
-At the moment we are perusing our key goal through the following research program?
-
-1. [**CMPD:** **C**omputational **M**achinery of **P**erceptual **D**ecision-making](#cmpd)
-2. [**MNBD:** **M**ulti-scale analysis of **N**eural and **B**ehavioral **D**ata](#mnbd)
-3. [**CFDN:** **C**riticality in **F**unctional and **D**ysfunctional **N**eural systems](#cfdn)
-3. [**HNNC:** **H**ybrid **N**eural **N**etworks for **C**ognitive Neuroscience](#hnnc)
-
- <a id="cmpd"></a>
-## Computational machinery of perceptual decision-making (CMPD)
-
-We want develop *functional* multi-scale models of decision processes,
-which is a key aspect of information processing. 
-We will start this development from *perceptual multistability* (phenomena like Necker cube
-and binocular rivalry), that is also a form of perceptual decision. 
-
-{::options parse_block_html="true" /}
-<details  style="text-align: left;">
-<summary markdown="span">Read more:</summary>
-
-We chose perceptual multistability as our starting point due to
-its multi-faceted richness:
-
-1. It is an evolutionary-preserved phenomenon.
-2. It is studied across several levels of organization (from genes to brain
-networks).
-3. It is a rich task to understand different aspects of neural
-computaitons. This includes, perceptual inference and we recently showed it is
-*also* a rich task for understanding value-based decision-making, and even cognitive control.
-4. It is broadly applicable across many species, from Drosophila to human, as well as across different sensory modalities.
-
-Furthermore, perceptual multistability is also important from a
-psychiatric perspective, as it has been found to differ in a wide range
-of psychiatric conditions (e. g., differences in the rate of perceptual
-switches), 
-So, we believe studying this phenomenon has great potential
-for gaining an integrative insight into a wide range of neural functions
-and dysfunctions.
-
-</details>
-{::options parse_block_html="false" /}
-
-### Highlighted paper of the research program
-{% include citation.html lookup="Multistability, perceptual value, and internal foraging" style="rich" %}
-
-{% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search="tag%3A+cognition"+OR+"tag%3A+neural+machinery") for more papers from CMC lab on this research program.
-{% endcapture %}
-
-{%
-  include alert.html
-  type="info"
-  content=nemcPaps
-%}
+<img src="{{ '/images/research.png' | relative_url }}"
+     style="display:block; margin:0 auto; width:90%; height:auto;">
 
 
- <a id="mnbd"></a>
-## Multi-scale analysis of neural and behavioral data (MNBD)
-
-We develop *multi-modal **methods** for the analysis of brain data*. 
-The destination of this methodological research is to establish the connections *from* multi-scale neural dynamics to behavior, and ultimately information processing.
-
-{::options parse_block_html="true" /}
-<details  style="text-align: left;">
-<summary markdown="span">Read more:</summary>
-The organization of the brain spans multiple levels (neurons, circuits, networks, etc), which are duly assessed using different measurement modalities (electrophysiology, calcium imaging, fMRI, etc). Despite extensive developments in the analysis of *individual* data modalities, studies that focus on *joint analysis of multi-modal neural data are still scarce*. 
-
-We started this research program from _Neural events_. Neural events are characteristics, transient, coordinated, neural activities that we can identify them in aggregated signals (e.g., local field potentials or LFPs). 
-We want to use them as accessible neural markers of cognitive processes, 
-that likely shed light on behaviorally relevant coordination mechanisms in the brain.
+Specifically, we study how adaptive decisions are shaped by three fundamental dimensions: [(1) tracking and adapting to a constantly changing external environment](#ed), [(2) building and updating an internal "world model" to predict future outcomes](#wm), and [(3) accommodating embodied constraints](#ec), which include managing physical sensorimotor limits alongside allostasis, the active balancing of internal energy and physiological needs. Ultimately, survival relies on the brain's ability to effectively integrate all three dimensions.
 
 
-It has been shown some neural events have signature across several scales (neurons, neural populations, and large-scale networks). 
-Moreover, they are also closely connected to behavior;
-for instance Sharp-Wave Ripples is one of the most studied neural events and, over two decades, it has been shown they are involved in everything from memory consolidation to offline and online planning. 
-We want to use them as accessible neural markers of cognitive processes, 
-that likely shed light on behaviorally relevant coordination mechanisms in the brain.
+To disentangle this complex integration, we combine a vast array of computational methods with analyses of neural and behavioral data. Drawing on methods from reinforcement learning, dynamical systems, and artificial intelligence, we develop testable theories of adaptive decision-making. Then, in close collaboration with various experimental labs, we design theory-driven, comparable tasks across different species, from nematodes and flies to rodents and primates, that are complemented by targeted human experiments conducted in our lab. Relying on this theory-experiment loop, we aim to develop a unifying framework to identify the fundamental principles of adaptive decision-making across species with distinct biological and cognitive constraints and ecological dynamics. Establishing this framework will not only reveal how the interplay between the dynamics of the brain, body, and environment drives adaptive decisions, but also enable us to (a) develop more adaptive artificial intelligence, and (b) better understand maladaptive decisions in psychiatric conditions.
 
 
-key gaps that we are trying to fill are the following: 
-1. How we can detect neural events in data reliably? Thus, we will develop unsupervised machine learning methods to identify neural events.
-2. If and how neural events are coupled to behavior? Thus we will use our method(s) to investigate the occurrence of different kinds of neural events in variety of behavioral task.
-3. How rich multi-scale dynamics of neural event support the behavior? Thus, we will characterize the multi-scale signature of neural events (e.g., how different brain regions interact/communicate during each event) during variety of behavioral task.
 
-</details>
-{::options parse_block_html="false" /}
-
-### Highlighted paper of the research program
-{% include citation.html lookup="Generalized Phase Locking Analysis" style="rich" %}
-
-{% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search="tag%3A+multi-scale+analysis"+OR+"tag%3A+multi-scale+methods") for more papers from CMC lab on this research program.
-{% endcapture %}
-
-{%
-  include alert.html
-  type="info"
-  content=nemcPaps
-%}
-
- <a id="cfdn"></a>
-## Criticality in functional and dysfunctional neural systems (CFDN)
-
-We will use *"brain criticality hypothesis"* which has the potential of bridging
-multi-scale neural dynamics to
-*basic* information processing capabilities, as well as behavior.
-
-{::options parse_block_html="true" /}
-<details  style="text-align: left;">
-<summary markdown="span">Read more:</summary>
-
-Crudely speaking, this
-hypothesis states that the brain operates close to the *edge of
-instability* (e.g., a sweet spot between over-synchronization and random
-activity). Operating in this regime explains some key features of neural
-dynamics that are particularly important for a multi-scale description
-of the brain (e. g., scale-freeness). Furthermore, criticality has been
-suggested to be an optimized regime for information processing.
-
-We extend the previous line of research in
-two directions. 
-1. Extend it to a broader range of information processing and other biologically relevant neuronal networks.
-2. We investigate if deviation from the critical state occurs in psychiatric disorders. 
-
-</details>
-<!-- <br/> -->
-{::options parse_block_html="false" /}
-
-### Highlighted paper of the research program
-{% include citation.html lookup="Signatures of criticality in efficient coding networks" style="rich" %}
-
-{% capture nemcPaps %}
-Check [here]({{ site.baseurl }}/publications/?search=%22tag:%20criticality%22) for more papers from CMC lab on this research program.
-{% endcapture %}
-
-{%
-  include alert.html
-  type="info"
-  content=nemcPaps
-%}
-
-<a id="hnnc"></a>
-## Hybrid neural networks for cognitive neuroscience (HNNC)
-
-Artificial neural network (ANN) have been influential for understanding the neural computations, 
-however they suffer from biological plausibility. 
-This is a key caveat when we want to use them to understand the computational machinery of cognitive process. 
-
-{::options parse_block_html="true" /}
-<details  style="text-align: left;">
-<summary markdown="span">Read more:</summary>
-
-We will exploit the  capacity of ANN for implementing different kinds of computations and hybrid them as much as possible with biological neural networks.
-This will let us to have the goodness of both worlds.
+<a id="ed"></a>
+## 1. Adapting to Environmental Dynamics
+Natural environments constantly change across a broad range of timescales, driving continuous fluctuations in vital resources, such as food, water, and shelter, as well as the presence of threats. To survive in these ever-changing environments, animals must learn the dynamics of their surroundings and adapt their decisions accordingly. To study how environmental dynamics shape decision-making, we focus primarily on foraging and defensive behavior, two fundamental processes that naturally depend on these fluctuations. During foraging, animals must constantly navigate the exploration-exploitation tradeoff, deciding whether to utilize a currently depleting resource or leave to search for alternatives. Conversely, defensive behavior involves evaluating and evading environmental threats. Crucially, these processes are deeply intertwined, as an animal must constantly balance the drive to secure essential resources against the urgent need to escape predators. By integrating computational models and analyses of data from cross-species experiments, we aim to map the decision strategies different species use to adapt to environmental dynamics and uncover how these computations emerge from underlying neural circuits.
 
 
-</details>
-{::options parse_block_html="false" /}
+<a id="wm"></a>
+## 2. Developing Internal World Models
+To make adaptive choices, animals must integrate immediate sensory inputs with an internal representation of their environment. This internal "world model" is built and continuously updated to maximize survival in volatile and uncertain surroundings. We explore how these internal representations guide decision-making across a broad range of contexts, from simple perceptual decision-making to complex foraging and defensive decisions. By using these internal world models, animals can perform mental simulations to predict outcomes, test competing hypotheses, and plan actions in scenarios they have never directly observed. This inferential capability is critical for generalizing to unexpected and highly uncertain environments. Our goal is to uncover the precise computational and neural mechanisms by which different species construct, use, and update these internal representations. To achieve this, we develop predictive computational models and advanced data analysis methods designed to decode and evaluate internal states directly from both behavioral and neural data. 
+
+
+<a id="ec"></a>
+## 3. Accommodating Embodied Constraints
+Decisions do not occur in isolation; they emerge from the continuous, dynamic interplay between the nervous system and the physical body. Here, we investigate how physical embodiment shapes and constrains adaptive decision processes. Specifically, we focus on the roles of allostasis, including internal physiological states like hunger and thirst; sensory limits, which dictate how the body registers information; and biomechanics, which define the range of physical actions. While internal physiological needs actively drive an animal's goals, its sensory and motor architectures restrict the strategies available to achieve them. To understand how the nervous system and body jointly coordinate behavior, we integrate these physiological and physical variables directly into our computational frameworks. By investigating the embodied aspects of adaptive decision processes, we ultimately aim to build theories of adaptive behavior that accurately reflect the true physical constraints of the natural world. 
+
 
 
