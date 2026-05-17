@@ -47,5 +47,6 @@ They have all made lasting contributions to science and to our hearts. ❤️
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ra, group: alum" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="role: msc, group: alum" style="tiny" %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
