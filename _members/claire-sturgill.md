@@ -13,4 +13,4 @@ links:
   github: cesturgill
 ---
 
-I am a PhD student in the CMC lab, studying the mechanisms underlying internal decisions, with a focus on perceptual multistability. In my research I analyze the dynamics of neural activity during perceptual switching and model perceptual dominance as the result of a value-based decision-process.
+I am a PhD student in the CMC lab, studying the mechanisms underlying internal decisions, with a focus on perceptual multistability. In my research, I analyze the dynamics of neural activity during perceptual switching and model perceptual dominance as the result of a value-based decision-process.
