@@ -1,7 +1,7 @@
 ---
 name: Hang Yin
 image: images/HangYin.jpg
-role: ra
+role: msc
 group: alum
 aliases:
   - Hang
