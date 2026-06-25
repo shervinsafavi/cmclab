@@ -1,5 +1,6 @@
 {% assign image = page.header | default: site.header | relative_url %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
+{% assign current_page = page %}
 
 {% assign svg = "images/logo.svg" | file_exists %}
 {% assign png = "images/logo.png" | file_exists %}
@@ -11,9 +12,6 @@
   style="--image: url('{{ image }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
-  {% endif %}
-  {% if page.url == "/" %}
-    data-big
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
@@ -50,6 +48,10 @@
         <a
           href="{{ page.dir | relative_url }}"
           data-tooltip="{{ page.nav.tooltip }}"
+          {% if page.url == current_page.url %}
+            data-current
+            aria-current="page"
+          {% endif %}
         >
           {{ page.title }}
         </a>

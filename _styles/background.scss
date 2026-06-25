@@ -16,6 +16,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  opacity: 0.25;
+  opacity: 0.14;
   z-index: -1;
+}
+
+.background[data-dark="true"]:before {
+  opacity: 0.22;
 }

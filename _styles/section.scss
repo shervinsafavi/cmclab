@@ -1,11 +1,11 @@
 ---
 ---
 
-$page: 1000px;
-$padding: 40px;
+$page: 1120px;
+$padding: 64px;
 
 section {
-  padding: $padding max($padding, calc((100% - $page) / 2));
+  padding: $padding max(28px, calc((100% - $page) / 2));
   transition-property: background, color;
 }
 
@@ -36,4 +36,11 @@ main > section:nth-of-type(odd) {
 
 main > section:nth-of-type(even) {
   background: var(--background-alt);
+}
+
+@media (max-width: 700px) {
+  section,
+  section[data-size="wide"] {
+    padding: 42px 22px;
+  }
 }

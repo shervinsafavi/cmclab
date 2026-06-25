@@ -13,9 +13,14 @@
   flex-direction: column;
   gap: 20px;
   margin: 20px;
-  width: 175px;
+  width: 188px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
+  transition-property: transform;
+}
+
+.portrait:hover {
+  transform: translateY(-4px);
 }
 
 .portrait[data-style="small"] {
@@ -39,7 +44,8 @@
 .portrait-image {
   width: 100%;
   aspect-ratio: 1 / 1;
-  border-radius: 999px;
+  border: 1px solid var(--light-gray);
+  border-radius: var(--rounded);
   object-fit: cover;
   box-shadow: var(--shadow);
 }
@@ -64,12 +70,15 @@
 .portrait-text {
   display: flex;
   flex-direction: column;
+  gap: 4px;
   line-height: calc(var(--spacing) - 0.4);
 }
 
 .portrait-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
+  color: var(--text);
+  font-size: 1.08rem;
 }
 
 .portrait-role .icon {
@@ -81,10 +90,15 @@
   align-items: center;
   width: 20%;
   aspect-ratio: 1 / 1;
-  border-radius: 999px;
-  background: var(--background);
+  border-radius: 10px;
+  background: var(--surface);
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
+}
+
+.portrait-role {
+  color: var(--muted);
+  font-size: 0.78rem;
 }
 
 .portrait[data-style="small"] .portrait-role .icon {

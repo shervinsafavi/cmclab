@@ -1,9 +1,7 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
-$big-padding: 100px;
+$logo: 44px;
 $collapse: 700px;
 $sticky: true;
 
@@ -12,15 +10,23 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px;
-  box-shadow: var(--shadow);
+  gap: 24px;
+  padding: 13px max(24px, calc((100% - 1180px) / 2));
+  border-bottom: 1px solid var(--light-gray);
+  background: color-mix(in srgb, var(--background) 92%, transparent) !important;
+  box-shadow: none;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
 
   @if $sticky {
     position: sticky !important;
     top: 0;
     z-index: 10 !important;
   }
+}
+
+header.background:before {
+  display: none;
 }
 
 header a {
@@ -39,11 +45,26 @@ header a {
 }
 
 .logo {
+  display: grid;
+  place-items: center;
+  width: $logo;
   height: $logo;
+  flex: 0 0 $logo;
+  border-radius: 14px;
+  background: var(--primary);
+  color: var(--background);
+  box-shadow: 0 10px 24px -15px var(--primary);
 }
 
-.logo > * {
-  height: 100%;
+.logo img {
+  display: none;
+}
+
+.logo:after {
+  content: "CMC";
+  font-size: 0.62rem;
+  font-weight: var(--bold);
+  letter-spacing: 0.08em;
 }
 
 .title {
@@ -59,13 +80,17 @@ header a {
 
 // main title
 .title > *:first-child {
-  font-size: var(--large);
+  font-size: 1.12rem;
+  font-weight: var(--semi-bold);
 }
 
 // subtitle
 .title > *:last-child {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  color: var(--muted);
+  font-family: var(--body);
+  font-size: 0.7rem;
+  font-weight: var(--semi-bold);
+  letter-spacing: 0.035em;
 }
 
 .nav-toggle {
@@ -101,22 +126,34 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
-  font-family: var(--heading);
-  text-transform: uppercase;
+  gap: 5px;
+  font-family: var(--body);
 }
 
 nav > a {
-  padding: 5px;
+  position: relative;
+  padding: 9px 12px;
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: var(--semi-bold);
+  transition-property: color, background;
 }
 
 nav > a:hover {
-  color: var(--primary);
+  background: var(--secondary);
+  color: var(--primary-strong);
 }
 
-header:not([data-big]) {
-  @media (max-width: $collapse) {
+nav > a[data-current] {
+  background: var(--secondary);
+  color: var(--primary-strong);
+}
+
+@media (max-width: $collapse) {
+  header {
     justify-content: flex-end;
+    padding: 12px 20px;
 
     .nav-toggle {
       display: flex;
@@ -127,43 +164,20 @@ header:not([data-big]) {
     }
 
     nav {
-      align-items: flex-end;
+      align-items: stretch;
       flex-direction: column;
       width: 100%;
+      padding: 8px 0 4px;
+      border-top: 1px solid var(--light-gray);
     }
-  }
-}
 
-header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: $big-padding 20px;
-
-  @if $sticky {
-    top: unset;
-  }
-
-  .home {
-    flex-direction: column;
-    flex-grow: 0;
-  }
-
-  .logo {
-    height: $logo-big;
-  }
-
-  .title {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title > *:first-child {
-    font-size: var(--xxl);
+    nav > a {
+      padding: 11px 13px;
+      text-align: left;
+    }
   }
 
   .title > *:last-child {
-    font-size: var(--large);
+    display: none;
   }
 }
