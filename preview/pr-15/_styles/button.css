@@ -1,0 +1,65 @@
+button {
+  cursor: pointer;
+}
+
+.button-wrapper {
+  display: contents;
+}
+
+.button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: calc(100% - 5px - 5px);
+  margin: 5px;
+  padding: 13px 19px;
+  border: 1px solid var(--primary);
+  border-radius: 999px;
+  background: var(--primary);
+  color: var(--background);
+  text-align: center;
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  font-size: 0.88rem;
+  line-height: 1;
+  text-decoration: none;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  appearance: none;
+  transition-property: background, color;
+}
+
+.button:hover {
+  border-color: var(--primary-strong);
+  background: var(--primary-strong);
+  color: var(--background);
+  transform: translateY(-1px);
+}
+
+.button-secondary {
+  border-color: var(--light-gray);
+  background: transparent;
+  color: var(--text);
+}
+
+.button-secondary:hover {
+  border-color: var(--primary);
+  background: var(--secondary);
+  color: var(--primary-strong);
+}
+
+.button[data-style=bare] {
+  padding: 5px;
+  background: none;
+  color: var(--primary);
+}
+.button[data-style=bare]:hover {
+  color: var(--text);
+}
+
+.button[data-flip] {
+  flex-direction: row-reverse;
+}
+
+/*# sourceMappingURL=button.css.map */

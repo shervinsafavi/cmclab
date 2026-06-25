@@ -1,0 +1,19 @@
+p {
+  margin: 20px 0;
+  color: var(--muted);
+  text-align: left;
+  line-height: var(--spacing);
+}
+
+section > p,
+section > ul,
+section > ol {
+  max-width: 900px;
+}
+
+li {
+  color: var(--muted);
+  line-height: var(--spacing);
+}
+
+/*# sourceMappingURL=paragraph.css.map */
