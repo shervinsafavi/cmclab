@@ -8,10 +8,10 @@
     </tr>
   </thead>
   <tbody>
-    {% for member in alumni %}
+    {% for alumnus in alumni %}
       <tr>
-        <td><a href="{{ member.url | relative_url }}">{{ member.name }}</a></td>
-        <td>{{ member.current_position | default: "—" }}</td>
+        <td><a href="{{ alumnus.url | relative_url }}">{{ alumnus.name }}</a></td>
+        <td>{{ alumnus.current_position | default: "—" }}</td>
       </tr>
     {% endfor %}
   </tbody>
