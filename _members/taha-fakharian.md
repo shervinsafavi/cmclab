@@ -2,6 +2,7 @@
 name: Mohammad Taha Fakharian
 image: images/TahaFakharian.jpg
 role: ra
+group: alum
 aliases:
   - Taha
   - mmdtaha

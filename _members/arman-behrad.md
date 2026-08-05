@@ -8,9 +8,11 @@ aliases:
   - Arman
   - Arman Behrad
 links:
+  website: https://armanbehrad.github.io/
+  bluesky: @armanbehrad.bsky.social
   orcid: 0000-0002-5185-5506
   linkedin: arman-behrad-md-msc-3189499a
-  email: Arman.behrad@ukdd.de
+  email: research@armanbehrad.org
   github: ArmanBehi
 ---
 

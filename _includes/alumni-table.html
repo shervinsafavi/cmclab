@@ -1,0 +1,18 @@
+{% assign alumni = site.members | where: "group", "alum" | sort: "name" %}
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Where they are now</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for member in alumni %}
+      <tr>
+        <td><a href="{{ member.url | relative_url }}">{{ member.name }}</a></td>
+        <td>{{ member.current_position | default: "—" }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

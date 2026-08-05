@@ -2,6 +2,7 @@
 name: Maximilian Schwab
 image: images/MaxSchwabe.jpg
 role: msc
+group: alum
 aliases:
   - Max
   - Schwabe
