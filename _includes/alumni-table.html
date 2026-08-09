@@ -10,7 +10,18 @@
   <tbody>
     {% for alumnus in alumni %}
       <tr>
-        <td><a href="{{ alumnus.url | relative_url }}">{{ alumnus.name }}</a></td>
+        <td>
+          <a class="alumni-person" href="{{ alumnus.url | relative_url }}">
+            <img
+              class="alumni-image"
+              src="{{ alumnus.image | relative_url }}"
+              alt="Portrait of {{ alumnus.name }}"
+              loading="lazy"
+              {% include fallback.html %}
+            >
+            <span>{{ alumnus.name }}</span>
+          </a>
+        </td>
         <td>{{ alumnus.current_position | default: "—" }}</td>
       </tr>
     {% endfor %}
