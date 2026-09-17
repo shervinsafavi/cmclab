@@ -1,6 +1,5 @@
 ---
 title: CMC lab interest mailing list
-author: shervin-safavi
 tags: announcements
 ---
 

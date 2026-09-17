@@ -11,17 +11,17 @@ If you're interested in joining us, you can check out the open positions below. 
 
 We're a unique team spanning two hubs: the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en) and the [Dresden University of Technology](https://tu-dresden.de/). Each position is based at one of these two hubs, but we work closely together across both, with regular interactions and collaborations throughout the team.
 
-**OPEN POSITIONS:**
+# Open positions
 
-**Postdoc**
+## Postdoc
 
 We will soon open a postdoc position based in the Tübingen hub. You can sign up here to be notified when the call is out: [https://forms.gle/DtQ41hZqnTQbzo6c8](https://forms.gle/DtQ41hZqnTQbzo6c8)
 
-**PhD**
+## PhD
 
 We will soon open a PhD position based in the Dresden hub. You can sign up here to be notified when the call is out: [https://forms.gle/MRQKvM3DHZJ8q2wM6](https://forms.gle/MRQKvM3DHZJ8q2wM6)
 
-**MAILING LISTS**
+# Mailing lists
 
 By signing up for the following mailing lists, you will be notified when a new position opens up:
 
@@ -29,7 +29,7 @@ By signing up for the following mailing lists, you will be notified when a new p
 - PhD: [https://forms.gle/MRQKvM3DHZJ8q2wM6](https://forms.gle/MRQKvM3DHZJ8q2wM6)
 - Master's thesis and rotation projects: [https://forms.gle/aqK5j6eiNh2S98eC8](https://forms.gle/aqK5j6eiNh2S98eC8)
 
-**SUPPORT FOR FELLOWSHIP APPLICATIONS**
+# Support for fellowship applications
 
 We are happy to support applications for postdoc fellowships, such as [DFG Walter Benjamin](https://www.dfg.de/foerderung/programme/einzelfoerderung/walter_benjamin/), [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/), and others. If you are interested, please send the following documents and information as a single PDF to `applications at cmc-unit dot org` and include `cmc_postdoc_fellowship` in your email title:
 
@@ -37,7 +37,7 @@ We are happy to support applications for postdoc fellowships, such as [DFG Walte
 - Research statement outlining your past research experience, a proposal for the projects/questions you are interested in working on, and how they align with the research directions of our group (maximum 2 pages)
 - Names and contact information of 2-3 referees
 
-**SUMMER INTERNSHIPS:**
+# Summer internships
 
 We consider summer internship applicants from the following programs (both are in person and fully funded):
 

@@ -7,7 +7,7 @@ nav:
 
 # Contact
 
-If you are interested in joining the CMC Unit, please check the [“Join us” tab](https://shervinsafavi.github.io/join), and proceed as noted there.
+If you are interested in joining the CMC Unit, please check the [“Join us” tab]({{ site.baseurl }}/join), and proceed as noted there.
 
 The **CMC Unit** consists of two hubs located at:
 

@@ -1,6 +1,5 @@
 ---
 title: We are heading to the Bernstein Conference with 1 workshop, 4 Talks, and 4 posters!
-author: shervin-safavi
 tags: lab-updates
 ---
 
