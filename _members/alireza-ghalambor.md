@@ -2,6 +2,7 @@
 name: Alireza Ghalambor
 image: images/AlirezaGhalambor.jpg
 role: ra
+group: alum
 aliases:
   - A. Ghalambor
   - A Ghalambor

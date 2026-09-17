@@ -2,6 +2,8 @@
 name: Maximilian Schwab
 image: images/MaxSchwabe.jpg
 role: msc
+group: alum
+current_position: PhD student at Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen
 aliases:
   - Max
   - Schwabe

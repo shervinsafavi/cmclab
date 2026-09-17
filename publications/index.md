@@ -7,10 +7,8 @@ nav:
 
 # Publications
 
-{% include section.html %}
+This page is under construction; for now, you can check the following Google Scholar profiles:
 
-{% include search-box.html %}
+[https://scholar.google.com/citations?user=gTp8sX8AAAAJ&hl=en](https://scholar.google.com/citations?user=gTp8sX8AAAAJ&hl=en)
 
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+[https://scholar.google.com/citations?user=7UlhWxkAAAAJ&hl=en](https://scholar.google.com/citations?user=7UlhWxkAAAAJ&hl=en)

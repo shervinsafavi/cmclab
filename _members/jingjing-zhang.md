@@ -2,6 +2,7 @@
 name: Jingjing Zhang
 image: images/JingjingZhang.jpg
 role: msc
+group: alum
 aliases:
   - Jingjing
 ---
