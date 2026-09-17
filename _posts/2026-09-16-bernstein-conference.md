@@ -3,6 +3,8 @@ title: We are heading to the Bernstein Conference with 1 workshop, 4 Talks, and 
 tags: lab-updates
 ---
 
+Join us at the Bernstein Conference for a workshop, four talks, and four posters exploring adaptive behavior, decision-making, and neural dynamics.
+
 Workshop:
 
 - [From lab to wild: how internal states enable adaptive behavior](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/) (Sep 28–29, Claire and Arman)
