@@ -3,6 +3,7 @@ name: Salar Nouri
 image: images/SalarNouri.jpg
 role: ra
 group: alum
+current_position: PhD student at Frankfurt Institute for Advanced Studies
 aliases:
   - S. Nouri
   - S Nouri
