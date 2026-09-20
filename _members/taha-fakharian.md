@@ -2,6 +2,8 @@
 name: Mohammad Taha Fakharian
 image: images/TahaFakharian.jpg
 role: ra
+group: alum
+current_position: PhD student at Okinawa Institute of Science and Technology OIST
 aliases:
   - Taha
   - mmdtaha

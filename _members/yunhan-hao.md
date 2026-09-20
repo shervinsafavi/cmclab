@@ -2,6 +2,7 @@
 name: Yunhan Hao
 image: images/YunhanHao.jpg
 role: msc
+group: alum
 aliases:
   - Y. Hao
   - Y Hao

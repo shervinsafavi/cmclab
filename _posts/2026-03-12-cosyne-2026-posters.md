@@ -1,6 +1,5 @@
 ---
 title: CMC lab presentations at Cosyne 2026
-author: shervin-safavi
 tags: lab-updates
 ---
 
@@ -14,5 +13,4 @@ We presented 3 exciting posters at Cosyne 2026!!!
 
 
 You can check out the details in our [Bluesky post](https://bsky.app/profile/cmc-lab.bsky.social/post/3mgnifv3vuc2w).
-
 

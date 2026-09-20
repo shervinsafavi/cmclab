@@ -1,16 +1,14 @@
 ---
 ---
 
-# CMC lab
+# CMC Unit
 
-**C**omputational **M**achinery of **C**ognition (CMC) lab is based at the [Medical Campus](https://tu-dresden.de/med/mf#) of  [TU Dresden](https://tu-dresden.de/). 
-As the name of the lab suggests, we want to understand the computations that support our cognition, 
-_and also_ the multi-scale machinery (neurons, ..., large-scale networks) that implements these computations.
-We closely collaborate with experimental and computational labs to develop new tools, computational models, and experimental paradigms to understand the computational machinery of cognition. 
+**C**omputational **M**achinery of **C**ognition (**CMC**) **Unit** is a joint research unit aimed at uncovering the computational, biological, and ecological principles underlying adaptive decision-making. We combine computational methods with analyses of neural and behavioral data to investigate how different species adapt their decisions to the dynamics of their **natural environments**, while accommodating their **embodied constraints**.
+
+The **CMC Unit** consists of two research hubs located at the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en) in Tübingen and [Dresden University of Technology](https://tu-dresden.de/) that jointly pursue this common vision.
 
 {% include section.html %}
 ## Latest updates
 
 
 {% include list.html data="posts" component="post-excerpt" %}
-

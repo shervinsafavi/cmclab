@@ -1,6 +1,5 @@
 ---
 title: New paper at Trends in Cognitive Sciences
-author: shervin-safavi
 tags: lab-updates
 ---
 
@@ -13,4 +12,3 @@ Highlights:
 - Given the translational potential of multistability, it can also be a promising experimental tool to link malfunctioning computations to underlying neurobiology in animal models of psychiatric disorders.
 
 You can check out the details [here](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(26)00032-X).
-
