@@ -9,17 +9,17 @@ We are always excited about having new team members and new ideas!
 
 If you're interested in joining us, you can check out the open positions below. If nothing suitable is currently listed, you can sign up for one of our mailing lists to be notified when a new position opens up.
 
-We're a unique team spanning two hubs: the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en) and the [Dresden University of Technology](https://tu-dresden.de/). Each position is based at one of these two hubs, but we work closely together across both, with regular interactions and collaborations throughout the team.
+We're a unique team spanning two hubs: the [Natural Decision Making Group](https://www.kyb.tuebingen.mpg.de/906930/natural-decision-making) at the Max Planck Institute for Biological Cybernetics in Tübingen and the [Embodied Decision Making Group](https://www.digs-ils.phd/research/research-groups/shervin-safavi) at Dresden University of Technology in Dresden. Each position is based at one of these two hubs, but we work closely together across both, with regular interactions and collaborations.
 
 # Open positions
 
 ## Postdoc
 
-We will soon open a postdoc position based in the Tübingen hub. You can sign up here to be notified when the call is out: [https://forms.gle/DtQ41hZqnTQbzo6c8](https://forms.gle/DtQ41hZqnTQbzo6c8)
+We have an open postdoc position based in the Tübingen hub. For more information about the position and the application process, please check [here](https://nextcloud.tuebingen.mpg.de/index.php/s/wjKjAHRidF5R4M8). 
 
 ## PhD
 
-We will soon open a PhD position based in the Dresden hub. You can sign up here to be notified when the call is out: [https://forms.gle/MRQKvM3DHZJ8q2wM6](https://forms.gle/MRQKvM3DHZJ8q2wM6)
+We have an open PhD position based in the Dresden hub. For more information about the position and the application process, please check [here](https://nextcloud.tuebingen.mpg.de/index.php/s/wbpcYQ5pgMjDJos).
 
 # Mailing lists
 
