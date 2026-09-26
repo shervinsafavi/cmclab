@@ -1,6 +1,6 @@
 ---
 name: Malte Krambeer
-image: MalteKrambeer.jpg
+image: images/MalteKrambeer.jpg
 role: msc
 aliases:
   - M. Krambeer
