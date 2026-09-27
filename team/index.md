@@ -26,7 +26,7 @@ In the CMC Unit, we value collaboration, equality, diversity, and inclusion. We 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-<p style="text-align: center;">Does research of our lab resonates with yours?</p>
+<p style="text-align: center;">Does our research resonate with your interests?</p>
 
 
 
