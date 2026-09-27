@@ -9,7 +9,7 @@ We are always excited about having new team members and new ideas!
 
 If you're interested in joining us, you can check out the open positions below. If nothing suitable is currently listed, you can sign up for one of our mailing lists to be notified when a new position opens up.
 
-We're a unique team spanning two hubs: the [Natural Decision Making Group](https://www.kyb.tuebingen.mpg.de/906930/natural-decision-making) at the Max Planck Institute for Biological Cybernetics in Tübingen and the [Embodied Decision Making Group](https://www.digs-ils.phd/research/research-groups/shervin-safavi) at Dresden University of Technology in Dresden. Each position is based at one of these two hubs, but we work closely together across both, with regular interactions and collaborations.
+We're a unique team spanning two research hubs: the [Natural Decision Making Group](https://www.kyb.tuebingen.mpg.de/906930/natural-decision-making) at the Max Planck Institute for Biological Cybernetics in Tübingen and the [Embodied Decision Making Group](https://www.digs-ils.phd/research/research-groups/shervin-safavi) at Dresden University of Technology in Dresden. Each position is based at one of these two hubs, but we work closely together across both, with regular interactions and collaborations.
 
 {% capture labPhyloAlert %}
 Check [our mentorship philosophy]({{ site.baseurl }}/join/mentorshipPhylo) to get to know us better.
