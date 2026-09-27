@@ -7,7 +7,7 @@ nav:
 
 # Team
 
-In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it.
+In the CMC Unit, we value collaboration, equality, diversity, and inclusion. We also respect our differences and try to get the best out of it.
 
 {% include section.html %}
 
@@ -38,8 +38,7 @@ In our lab, we value collaboration, equality, diversity, inclusion. We also resp
 
 ## Alumni
 
-Gone but never forgotten.
-These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
-They have all made lasting contributions to science and to our hearts. ❤️
+These are our past members who have moved on to other school programs, jobs, or elsewhere.
+They have all made lasting contributions to our science and our hearts ❤️
 
 {% include alumni-table.html %}
