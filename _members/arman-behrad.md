@@ -15,4 +15,4 @@ links:
   github: ArmanBehi
 ---
 
-I am a PhD student at the CMC lab, focusing on the transient dynamics within the brain and their impact on cognitive processes. In my research I employ a variety of computational models, including data-driven dynamical modeling, spiking neural networks, and machine learning algorithms. I hold a Medical Doctorate and a Master's degree in Integrative Neuroscience.
+I am a PhD student at the CMC Unit, focusing on the transient dynamics within the brain and their impact on cognitive processes. In my research I employ a variety of computational models, including data-driven dynamical modeling, spiking neural networks, and machine learning algorithms. I hold a Medical Doctorate and a Master's degree in Integrative Neuroscience.

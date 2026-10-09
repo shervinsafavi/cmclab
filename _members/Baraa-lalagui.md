@@ -10,4 +10,4 @@ links:
   linkedin: baraa-lalagui
 
 ---
-I am a Master's graduate from the School of Artificial Intelligence in Algeria. I am currently an intern at the CMC lab, working on modeling perceptual multistability as a POMDP, with a focus on parameter recovery using simulation-based inference.
+I am a Master's graduate from the School of Artificial Intelligence in Algeria. I am currently an intern at the CMC Unit, working on modeling perceptual multistability as a POMDP, with a focus on parameter recovery using simulation-based inference.
