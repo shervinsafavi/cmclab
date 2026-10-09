@@ -2,6 +2,7 @@
 name: Arghavan Aslani
 image: images/ArghavanAslani.jpg
 role: ra
+group: alum
 aliases:
   - Arghavan
   - Aslani
@@ -11,4 +12,4 @@ links:
   github: arghavanaslani
 
 ---
-I am a Master's student in Cognitive Science. Currently, I am working at the CMC Lab on the Bayesian basis of perceptual multistability. My academic background is in Electrical Engineering.
+I am a Master's student in Cognitive Science. Currently, I am working at the CMC Unit on the Bayesian basis of perceptual multistability. My academic background is in Electrical Engineering.
